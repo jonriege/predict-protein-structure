@@ -1,510 +1,764 @@
 [
     {
         "sequence": "GVGTVPMTDYGNDVEYYGQVTIGTPGKSFNLNFDTGSSNLWVGSVQCQASGCKGGRDKFNPSDGSTFKATGYDASIGYGDGSASGVLGYDTVQVGGIDVTGGPQIQLAQRLGGGGFPGDNDGLLGLGFDTLSITPQSSTNAFDQVSAQGKVIQPVFVVYLAASNISDGDFTMPGWIDNKYGGTLLNTNIDAGEGYWALNVTGATADSTYLGAIFQAILDTGTSLLILPDEAAVGNLVGFAGAQDAALGGFVIACTSAGFKSIPWSIYSAIFEIITALGNAEDDSGCTSGIGASSLGEAILGDQFLKQQYVVFDRDNGIRLAPVA",
-        "labels": "___________________ee______ee__eee______ee_________________________________________ee____________________eeeee____________eee_______________hhhhhhh___________eee_____eee____________________________ee_______________ee________ee________________________________________________________________________ee_hhhh_____eee___eee_____"
+        "labels": "___________________ee______ee__eee______ee_________________________________________ee____________________eeeee____________eee_______________hhhhhhh___________eee_____eee____________________________ee_______________ee________ee________________________________________________________________________ee_hhhh_____eee___eee_____",
+        "jpred4": "___eeeee______eeeeeeee_____eeeeeee______________________________________eeeeee___eeeeeeeeeeeee__ee_____eeeeee____________________________________________________________eeee___________eeee_______eee_________________eee______e__hhhhhhhhhhhh__________ee_________eeeee___eeeeee__________eeeeeee______eeeeehh___eeeeee____eee____",
+        "preds": "_____h___e___he_h_ehe_ee_____e_ee_____eeee____e_____eh_________e_e__h______ehhe____e__e_____ehe_e_e___h_eh_h_h__ee__e_______e_hhhehe_e_h________h_he__e__e_e_ehhh_____h________e_e_ee__e__h_______hehhe_e____e__he_hhhehee_h__ee___h____e_________h__hhhh_hee___________eee___he_eehh_____e__________e___hee__hhh_heeeeee_____h_h___"
     },
     {
         "sequence": "AQCEATIESNDAMQYDLKEMVVDKSCKQFTVHLKHVGKMAKSVMGHNWVLTKEADKEGVATDGMNAGLAQDYVKAGDTRVIAHTKVIGGGESDSVTFDVSKLTPGEAYAYFCSFPGHWAMMKGTLKLSN",
-        "labels": "___eeeeee_________eeeee____eeeeeeee_____hhhh____eeee___hhhhhhhhh_________________ee________eeeeeee_________eeee__________eeeeeee_"
+        "labels": "___eeeeee_________eeeee____eeeeeeee_____hhhh____eeee___hhhhhhhhh_________________ee________eeeeeee_________eeee__________eeeeeee_",
+        "jpred4": "__eeeeee_____e____eeeee____eeeeeeee___________eeee_____hhhhhhhhhhhh____________eeee________eeeeeee________eeeeeee_______eeeeeee__",
+        "preds": "_hh_e_hhe____heeeh__eeh_____eeee_______he_e_____eh_________h_h_______heheh________h___e_h_h__e_eee__e__e____he______e_heeeeeeee__"
     },
     {
         "sequence": "SVDIQGNDQMQFNTNAITVDKSCKQFTVNLSHPGNLPKNVMGHNWVLSTAADMQGVVTDGMASGLDKDYLKPDDSRVIAHTKLIGSGEKDSVTFDVSKLKEGEQYMFFCTFPGHSALMKGTLTLK",
-        "labels": "_eeee___________eee_____eeeeeee______________eeee____hhhhhhhhhh_hhhh_____________________eeeeee_________eeee__________eeeeee_"
+        "labels": "_eeee___________eee_____eeeeeee______________eeee____hhhhhhhhhh_hhhh_____________________eeeeee_________eeee__________eeeeee_",
+        "jpred4": "eeeeee___eeee__eeeee____eeeeeeee_______e____eee_____hhhhhhhhhhhhh___________eeee________eeeeeee________eeeeee________eeeeeee_",
+        "preds": "_eh_____h_h_e__e__eh____eee__________h__h___heh_hhhh_h_h__h_he____hh__________hhhh_h_e____eeeee__hhe_e__hhhee______h_hhh_eee_"
     },
     {
         "sequence": "ALWQFNGMIKCKIPSSEPLLDFNNYGCYCGLGGSGTPVDDLDRCCQTHDNCYKQAKKLDSCKVLVDNPYTNNYSYSCSNNEITCSSENNACEAFICNCDRNAAICFSKVPYNKEHKNLDKKNC",
-        "labels": "_hhhhhhhhhhh_____hhhh__________________hhhhhhhhhhhhhhhh___hhhhh___________eeee__eeee_____hhhhhhhhhhhhhhhhhh________________"
+        "labels": "_hhhhhhhhhhh_____hhhh__________________hhhhhhhhhhhhhhhh___hhhhh___________eeee__eeee_____hhhhhhhhhhhhhhhhhh________________",
+        "jpred4": "___hhhhheeee___________________________hhhhhhhhhhhhhhhhhh___________eeeeeeeeee__eeeee_____hhhhhhhhhhhhhhhhh________________",
+        "preds": "___he___eeeh______e__________________h___hh_hhh__h_hhh__eh__h__eee_____e_ehee__h_ee_e____h_hhhhhhhhhhhhhh_h__________e_____"
     },
     {
         "sequence": "HWGYGKHDGPEHWHKDFPIAKGERQSPVDIDTHTAKYDPSLKPLSVSYDQATSLRILNDGHAFNVEFDDSEDKAVLKGGPLDGTYRLIQFHFHWGSLDGEGSQHTVDKKKYAAELHLVHWNTKYGDFGKAVQQPDGLAVLGIFLKVGSAKPGLQKVVDVLDSIKTKGKSADFTNFDPRGLLPESLDYWTYPGSLTTPPLLECVTWIVLKEPISVSSEQVLKFRKLNFDGEGEPEELMVDNWRPAQPLKNRQIKASF",
-        "labels": "____________________________ee_____________eeee_______eeee____eeee________eeee______eeeeeeeeee__________ee______eeeeeeeee_____hhhh______eeeeeeeeeee___hhhhhhh___________eee________________ee_ee__________eeeee____eeeehhhhhhh______________________________ee__"
+        "labels": "____________________________ee_____________eeee_______eeee____eeee________eeee______eeeeeeeeee__________ee______eeeeeeeee_____hhhh______eeeeeeeeeee___hhhhhhh___________eee________________ee_ee__________eeeee____eeeehhhhhhh______________________________ee__",
+        "jpred4": "__________________________________eee_______ee_______eeeee___eeeeee______eee________eeeeeeeee___________e________eeeeeee______hhhhhh_____eeeeeee__________hhhh___________ee________________eeee___________eeeeee_______hhhhhhhhhhh________________________eeee__",
+        "preds": "___h_____hhe___e________________hee_h______heeh_ee_ehheeh_e_hehh_he_hh__hheehh___hehehheeehee__________hee_h__ehee_ee____hh___e_h______hee_ehhhee___h___e_h_eh_hh___e_h____h__________hhheheeeee_________he__h_e___eeee_hhh_hh____e______h_eee________he__h_e__e"
     },
     {
         "sequence": "GGGARSGDDVVAKYCNACHGTGLLNAPKVGDSAAWKTRADAKGGLDGLLAQSLSGLNAMPPKGTCADCSDDELKAAIGKMSGL",
-        "labels": "_______hhhhhh__hhhh____________hhhhhhhhhhh______hhhhhh_______________hhhhhhhhhhhh__"
+        "labels": "_______hhhhhh__hhhh____________hhhhhhhhhhh______hhhhhh_______________hhhhhhhhhhhh__",
+        "jpred4": "____hhhhhhhhhhhh____________________________hhhhhhhhh________________hhhhhhhhhhhh__",
+        "preds": "_____h__hh__e_e_h___h_ee______h__eeh_____h___h__hhhe_he__________eh___hhehehhehh_h_"
     },
     {
         "sequence": "ASFSEAPPGNPKAGEKIFKTKCAQCHTVDKGAGHKQGPNLNGLFGRQSGTTPGYSYSTADKNMAVIWEENTLYDYLLNPKKYIPGTKMVFPGLKKPQERADLISYLKEATS",
-        "labels": "__________hhhhhhhhhhh____________________________________hhhhhh_____hhhhhhhhh_hhhh_____________hhhhhhhhhhhhhh__"
+        "labels": "__________hhhhhhhhhhh____________________________________hhhhhh_____hhhhhhhhh_hhhh_____________hhhhhhhhhhhhhh__",
+        "jpred4": "__________hhhhhhhhhhh____ee________________________________h________hhhhhhhhh__________________hhhhhhhhhhhhhh__",
+        "preds": "___h___h_____h__hh___he__________eh_____e____ee________e_h__h___ehehh_h_hhhhh_________ee__hehh___ehh_hhhhhhhe__"
     },
     {
         "sequence": "AFAGVLNDADIAAALEACKAADSFNHKAFFAKVGLTSKSADDVKKAFAIIDQDKSGFIEEDELKLFLQNFKADARALTDGETKTFLKAGDSDGDGKIGVDEFTALVKA",
-        "labels": "_______hhhhhhhhhh________hhhhhhh_______hhhhhhhhhhh______eeehhhhh______________hhhhhhhhhh_______eeehhhhhhhhh_"
+        "labels": "_______hhhhhhhhhh________hhhhhhh_______hhhhhhhhhhh______eeehhhhh______________hhhhhhhhhh_______eeehhhhhhhhh_",
+        "jpred4": "_______hhhhhhhhhhh_______hhhhhhhhh_____hhhhhhhhhhhh_____eehhhhhhhhhhhh________hhhhhhhhhhhh_____eehhhhhhhhh__",
+        "preds": "hh__e____heehh_hh___hh_e__hhhhh_h____eeehh___hheh__h__e_e__h_hhhhheh___hhhhheh___e_hee_______e_heh_e___h_hh_"
     },
     {
         "sequence": "TTCCPSIVARSNFNVCRLPGTPEAICATYTGCIIIPGATCPGDYAN",
-        "labels": "_ee___hhhhhhhhhhh_____hhhhhhhh__ee____________"
+        "labels": "_ee___hhhhhhhhhhh_____hhhhhhhh__ee____________",
+        "jpred4": "________hhhheeee______hhhhhh____ee____________",
+        "preds": "h_____ee_h_h_e__e_______ee______h_h__e__h_____"
     },
     {
         "sequence": "IRCFITPDITSKDCPNGHVCYTKTWCDAFCSIRGKRVDLGCAATCPTVKTGVDIQCCSTDNCNPFPTRKRP",
-        "labels": "___________________eeeeee____hhhh__eeeee____________eeeee______________"
+        "labels": "___________________eeeeee____hhhh__eeeee____________eeeee______________",
+        "jpred4": "__________________eeeeeeee_________eeee____________eeeeee______________",
+        "preds": "h_ee______________ehe_e_e__h__he___e______h___hee______e__h___e______e_"
     },
     {
         "sequence": "ADAPGDDYVISAPEGMKAKPKGDKPGALQKTVPFPHTKHATVECVQCHHTLEADGGAVKKCTTSGCHDSLEFRDKANAKDIKLVESAFHTQCIDCHALKKKDKKPTGPTACGKCHTTN",
-        "labels": "______________________________________________________________________________________hhhhhhhhhhhhhhhh________________"
+        "labels": "______________________________________________________________________________________hhhhhhhhhhhhhhhh________________",
+        "jpred4": "______eeeee_____e______________eee_hhhh_____ee___________________________________hhhhhhhhhhhhhhhhhhhh_________________",
+        "preds": "_______ehh__hhh_ee________h_h_hehe____he_ehh_heh___h_____e_hh_e___h__e_h_hhh_h_e_heehhhh_h_e__hh_h_______h______h__ee_"
     },
     {
         "sequence": "GDVAKGKKTFVQKCAQCHTVENGGKHKVGPNLWGLFGRKTGQAEGYSYTDANKSKGIVWNENTLMEYLENPKKYIPGTKMIFAGIKKKGERQDLVAYLKSATS",
-        "labels": "_hhhhhhhhhhhh_______________________________________________hhhhhhhhh__________________hhhhhhhhhhhhhh__"
+        "labels": "_hhhhhhhhhhhh_______________________________________________hhhhhhhhh__________________hhhhhhhhhhhhhh__",
+        "jpred4": "__hhhhhhhhhhh____e________________e_________________________hhhhhhhhh__________________hhhhhhhhhhhhhh__",
+        "preds": "___hh______eeh__e__eh___he______h__h__h____h__h_hh______ee_h_e_hhhhhh___hh___h___hhheeh___hhh_hhhhhh___"
     },
     {
         "sequence": "LSADQISTVQASFDKVKGDPVGILYAVFKADPSIMAKFTQFAGKDLESIKGTAPFETHANRIVGFFSKIIGELPNIEADVNTFVASHKPRGVTHDQLNNFRAGFVSYMKAHTDFAGAEAAWGATLDTFFGMIFSKM",
-        "labels": "__hhhhhhhhhhhh_____hhhhhhhhhhh_hhhh__________hhhh___hhhhhhhhhhhhhhhhhhh_____hhhhhhhhhhh______hhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhh_"
+        "labels": "__hhhhhhhhhhhh_____hhhhhhhhhhh_hhhh__________hhhh___hhhhhhhhhhhhhhhhhhh_____hhhhhhhhhhh______hhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhh_",
+        "jpred4": "__hhhhhhhhhhhhhhhh_hhhhhhhhhhh___hhhh_______________hhhhhhhhhhhhhhhhhhh____hhhhhhhhhhhh_______hhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhhh__",
+        "preds": "______hhheh___________e_heeeee__e_h___hhhh_e__h_h__e____eh__ee_e__eh_h___e_h__heeehhh_h___hh____hhh__h___eheh__h______e_h_h_hh___e__h_h_"
     },
     {
         "sequence": "VVGGTEAQRNSWPSQISLQYRSGSSWAHTCGGTLIRQNWVMTAAHCVDRELTFRVVVGEHNLNQNNGTEQYVGVQKIVVHPYWNTDDVAAGYDIALLRLAQSVTLNSYVQLGVLPRAGTILANNSPCYITGWGLTRTNGQLAQTLQQAYLPTVDYAICSSSSYWGSTVKNSMVCAGGDGVRSGCQGDSGGPLHCLVNGQYAVHGVTSFVSRLGCNVTRKPTVFTRVSAYISWINNVIASN",
-        "labels": "____ee________eeeeeeee__eeeeeeeeeeee__eeee__________eeeee____________eeeeeeeeee_______________eeeee___________________________eeeee______________eeee__ee_hhhh_____________eeee_______________eeeeee__eeeeeeeeee____________eeeee____hhhhhhhhh__"
+        "labels": "____ee________eeeeeeee__eeeeeeeeeeee__eeee__________eeeee____________eeeeeeeeee_______________eeeee___________________________eeeee______________eeee__ee_hhhh_____________eeee_______________eeeeee__eeeeeeeeee____________eeeee____hhhhhhhhh__",
+        "jpred4": "_____________eeeeeeee_____eeeeeeeee____eeee___________eeeeeee_________eeeeeeeee_____________________________eee______________eeeeeee_____________eeeeeee___hhhh________________________________eeeee___eeeeeeeee_____________eeee____hhhhhhhhh__",
+        "preds": "_e__heee_______ee_______hh____eeeeeee__ehe_e____hhh_heh_e____hh_________h__hehe____h_h_hh_____eheeeee_eeehhe_ehheeh_h__ehe_____hhh__e________hh_h__eee__h__hhe__e_____ee_he__hee_e__e_________eeeeee_e__eeh_ee_eehe____e__e__eehe_h__hhh____h_h_"
     },
     {
         "sequence": "FNKEQQNAFYEILHLPNLNEEQRNGFIQSLKDDPSQSANLLAEA",
-        "labels": "____hhhhhhhhh_______hhhhhhhhhhhh____________"
+        "labels": "____hhhhhhhhh_______hhhhhhhhhhhh____________",
+        "jpred4": "___hhhhhhhhhh______hhhhhhhhhhhh__hhhhhhhhh__",
+        "preds": "e__h___h_eeee__eh_______h_ehe_______ee____hh"
     },
     {
         "sequence": "PSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPQVKFNWYVDGVQVHNAKTKPREQQYNSTYRVVSVLTVLHQNWLDGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLS",
-        "labels": "__eeee___hhhhh______eeeeeeee_________eeeee__ee________eeee____eeeeeeee__hhhhh____eeeee________eeeee__________eeeee__________eeeeeeeeeee_____eeeeee__ee___eee___ee_____eeeeeeeeeehhhhh____eeeeee________eeeee___"
+        "labels": "__eeee___hhhhh______eeeeeeee_________eeeee__ee________eeee____eeeeeeee__hhhhh____eeeee________eeeee__________eeeee__________eeeeeeeeeee_____eeeeee__ee___eee___ee_____eeeeeeeeeehhhhh____eeeeee________eeeee___",
+        "jpred4": "___ee______eeeee___eeeeeeeeee______eeeeee____________ee_______eeeeeeeee_________eeeeeeee_______eeeeeee_______eeeee___________eeeeeeee______eeeeeee___________________eeeeeeeeeee________eeeeeeee_______eeeee___",
+        "preds": "_e____________ee____ee_eeeh_e____heeee_h__hh_e_________h_e___eeeh__h__h__hehh___ee_e_e_h_________hhhhh_e__e___e______hhhh_h_e_eee__e_e______eeee__h______e__e_eee______ee_e_he_h_hh___h_ee_heee_eeh__hee___e__e"
     },
     {
         "sequence": "VLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR",
-        "labels": "___hhhhhhhhhhhh_____hhhhhhhhhhhhhhh_________________hhhhhhhhhhhhhhhhhhh____hhhh_hhhhhhhhh______hhhhhhhhhhhhhhh________hhhhhhhhhhhhhhhhhhh____"
+        "labels": "___hhhhhhhhhhhh_____hhhhhhhhhhhhhhh_________________hhhhhhhhhhhhhhhhhhh____hhhh_hhhhhhhhh______hhhhhhhhhhhhhhh________hhhhhhhhhhhhhhhhhhh____",
+        "jpred4": "___hhhhhhhhhhhhhhhh_hhhhhhhhhhhhhhhhh_hhh___________hhhhhhhhhhhhhhhhhhh____hhhhhhhhhhhhhh_________hhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhh___",
+        "preds": "___hhhhhhhhhhhhhh___hhhhhhhhhhhhhh__________________hhhhhhhhhhhhhhhhhhh____hhhh_hhhhhhhhh________hhhhhhhhhhhhhhh______hh_hhhhhhhhhhhhhhh_____"
     },
     {
         "sequence": "GHFTEEDKATITSLWGKVNVEDAGGETLGRLLVVYPWTQRFFDSFGNLSSASAIMGNPKVKAHGKKVLTSLGDAIKHLDDLKGTFAQLSELHCDKLHVDPENFKLLGNVLVTVLAIHFGKEFTPEVQASWQKMVTGVASALSSRYH",
-        "labels": "____hhhhhhhhhh_____hhhhhhhhhhhhhhh________________hhhhh__hhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhhh____"
+        "labels": "____hhhhhhhhhh_____hhhhhhhhhhhhhhh________________hhhhh__hhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhhh____",
+        "jpred4": "____hhhhhhhhhhhh_____hhhhhhhhhhhhh__hhhhhh_________hh____hhhhhhhhhhhhhhhhhhh_______hhhhhhhhh__________hhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhh___",
+        "preds": "____h_____eh__h_h__hee_hhhhhhhhhhh_______________e_ehhhh_hhhhhhhhhhhheh__hh__hh__h___hhhhhhhhh______hhhhhhhh_hhhhe_ehh_____hhh_hhhh_hhe_heehh_____"
     },
     {
         "sequence": "AYVINDSCIACGACKPECPVNIIQGSIYAIDADSCIDCGSCASVCPVGAPNPED",
-        "labels": "__ee___________________________________hhhhh_____ee___"
+        "labels": "__ee___________________________________hhhhh_____ee___",
+        "jpred4": "___________hhhhhh__________eee_________eee____________",
+        "preds": "_eeeh_hh_____h____e_h_hh__________h_____eh____________"
     },
     {
         "sequence": "PKALIVYGSTTGNTEYTAETIARQLANAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGCGDSSYEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGAI",
-        "labels": "_eeeee______hhhhhhhhhhhhhh____eeeee_______________eeee___ee_____ee____hhhh___________eeeeeeee________hhhhhhhhhhh____ee____eeee______hhhhhhhhhhhhhh_"
+        "labels": "_eeeee______hhhhhhhhhhhhhh____eeeee_______________eeee___ee_____ee____hhhh___________eeeeeeee________hhhhhhhhhhh____ee____eeee______hhhhhhhhhhhhhh_",
+        "jpred4": "__eeeeee____hhhhhhhhhhhhhhh____eeeee______________eeeeee___________hhhhhhhhhh_________eeeee_______hhhhhhhhhhhhhhh____ee___eee_______hhhhhhhhhhhhh__",
+        "preds": "___hhee_eee_e_____eh_hhh_h_______h_e_h_h_____h_____eheee_e______h_____e__hhh________hhh___e_____e_e_hh_eh_hhhhhh__h_heehh_eee_______________e__h_he"
     },
     {
         "sequence": "HSQGTFTSDYSKYLDSRRAQDFVQWLMNT",
-        "labels": "______hhhh___hhhhhhhhhh______"
+        "labels": "______hhhh___hhhhhhhhhh______",
+        "jpred4": "______hhhhhhhhhhhhhhhhhhhhh__",
+        "preds": "_______h_ehe_hh__h__e_he_ee__"
     },
     {
         "sequence": "GKITFYEDRGFQGHCYECSSDCPNLQPYFSRCNSIRVDSGCWMLYERPNYQGHQYFLRRGDYPDYQQWMGFNDSIRSCRLIPQHTGTFRMRIYERDDFRGQMSEITDDCPSLQDRFHLSEVHSLNVLEGSWVLYEMPSYRGRQYLLRPGEYRRYLDWGAMNAKVGSLRRVMDFY",
-        "labels": "_eeeeeee___eeeeeee_______________eeeeee_eeeeeee___eeeeeee__eee______________eeeee_______eeeee________eeee______hhhhh______eeeeee__eeeeee___eeeeeee__eee______________eeee_____"
+        "labels": "_eeeeeee___eeeeeee_______________eeeeee_eeeeeee___eeeeeee__eee______________eeeee_______eeeee________eeee______hhhhh______eeeeee__eeeeee___eeeeeee__eee______________eeee_____",
+        "jpred4": "_eeeeee______eeeeee______________eeee___eeeeee______eeeee_________________eeeeee________eeeeee_______eeeee______________eeeeee___eeeeee______eeeeee________________eeeeee_____",
+        "preds": "e__________e_e_eheh______hhhh__h__ee_e____h_h____h___eheeee_______hhe_h____eh___eee___e_eehhhee_hh__e_ee_______e__hhhh_h_e___ee___he_e____hh__ehe__h__eh_ee__h_h__h_h_hhe__hhh"
     },
     {
         "sequence": "GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA",
-        "labels": "_______hhhhhhhhhhh________________________hhhhh______hhhh_____________"
+        "labels": "_______hhhhhhhhhhh________________________hhhhh______hhhh_____________",
+        "jpred4": "_______hhhhhhhhhhh________________________eeeeee_____hhhhhhh__________",
+        "preds": "_h___hh_h_hhhhhh_h______ee__he__________h__he_h____hehhhhhhh_e__h___h_"
     },
     {
         "sequence": "AYRPSETLCGGELVDTLQFVCGDRGFYFSRPASRVSRRSRGIVEECCFRSCDLALLETYCATPAKSE",
-        "labels": "____ee____hhhhhhhhhhh____________________hhhhh____eehhhh___________"
+        "labels": "____ee____hhhhhhhhhhh____________________hhhhh____eehhhh___________",
+        "jpred4": "____eeee___hhhhhhhhh_____________________eeeeee_____hhhhhhh________",
+        "preds": "______e_eeeeeehhh_hhh_____e_e_____hhhe___hehhh______eehe_heee__e___"
     },
     {
         "sequence": "RTVYAFSARPLAGGEPFNLSSLRGKVLLIENVASL",
-        "labels": "______ee________ee_______eeeeeee___"
+        "labels": "______ee________ee_______eeeeeee___",
+        "jpred4": "__hhhh__________________eeeeee_____",
+        "preds": "hee_e____ee_ehe___hh_hh__eee_hee_e_"
     },
     {
         "sequence": "GTTVRDYTQMNDLQRRLGPRGLVVLGFPCNQFGHQENAKNEEILNCLKYVRPGGGFEPNFMLFEKCEVNGEKAHPLFAFLREVLPTPSDDATALMTDPKFITWSPVCRNDVSWNFEKFLVGPDGVPVRRYSRRFLTIDIEPDIETLLSQ",
-        "labels": "__hhhhhhhhhhhhhhh____eeeeeee______________hhhhhhh___________ee____________hhhhhhhhh_________________________________eeee_____eeeee_________hhhhhhhh__"
+        "labels": "__hhhhhhhhhhhhhhh____eeeeeee______________hhhhhhh___________ee____________hhhhhhhhh_________________________________eeee_____eeeee_________hhhhhhhh__",
+        "jpred4": "______hhhhhhhhhhh____eeeeeee____________hhhhhhhhheee_________eeeee_______hhhhhhhhhh________hhhhh___________________eeeee_____eeeee_____hhhhhhhhhhhh__",
+        "preds": "__e_eehehhe__hh_e_e__eee______e_h__hhhh_heeeh_ee_e_____h______h_ee_eh_eh__ee_hhe__________hhh___e____e___ee_h__e_hhh___e_____e_hh___eheh_____e_hheh__"
     },
     {
         "sequence": "VLSAANKSNVKAAWGKVGGNAPAYGAQALQRMFLSFPTTKTYFPHFDLSHGSAQQKAHGQKVANALTKAQGHLNDLPGTLSNLSNLHAHKLRVNPVNFKLLSHSLLVTLASHLPTNFTPAVHANLNKFLANDSTVLTSKYR",
-        "labels": "___hhhhhhhhhhh_______hhhhhhh_________________________hhhhhhhhhhhhhhhh______hhhh____hhhhh_________hhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhh______"
+        "labels": "___hhhhhhhhhhh_______hhhhhhh_________________________hhhhhhhhhhhhhhhh______hhhh____hhhhh_________hhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhh______",
+        "jpred4": "___hhhhhhhhhhhhhhhh_hhhhhhhhhhhhhhh_________________hhhhhhhhhhhhhhhhhhh_____hhhhhhhhhhh_h_________hhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhh___",
+        "preds": "___h___e_hhhhh________hhhhehhhhhehh_______________e_h_h_h_hhh_h_hh_h__h____h_h____h__hhhh__e____hhhheeh_h_hhhhh________hhh_e_h___h___hhh_____"
     },
     {
         "sequence": "MLTAEEKAAVTGFWGKVDVDVVGAQALGRLLVVYPWTQRFFQHFGNLSSAGAVMNNPKVKAHGKRVLDAFTQGLKHLDDLKGAFAQLSGLHCNKLHVNPQNFRLLGNVLALVVARNFGGQFTPNVQALFQKVVAGVANALAHKYH",
-        "labels": "_____hhhhhhhh________hhhhhhhhh___________________hhhhhh__hhhhhhhh_____________________hhhhhhh_____hhhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhhhh___"
+        "labels": "_____hhhhhhhh________hhhhhhhhh___________________hhhhhh__hhhhhhhh_____________________hhhhhhh_____hhhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhhhh___",
+        "jpred4": "___hhhhhhhhhhhhh_____hhhhhhhhhhhhh__hhh_________________hhhhhhhhhhhhhhhhhhh____hhhhhhhhhhhhh__________hhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhh___",
+        "preds": "h___hhhhhe_hee__h_h__e__hhhhhhhhh_____heh_e______h_h_h__hhhhh_hhhhh_h_h__eh_____hhhhhheh__eh___e___hh_h_hhhhhhhhhh___hh___h_hhhh_h_hhhhhhhhh_____"
     },
     {
         "sequence": "SAPANAVAADNATAIALKYNQDATKSERVAAARPGLPPEEQHCADCQFMQADAAGATDEWKGCQLFPGKLINVNGWCASWTLKAG",
-        "labels": "___________hhhhhh__________hhhh_________________ee_________eeee______eee_____________"
+        "labels": "___________hhhhhh__________hhhh_________________ee_________eeee______eee_____________",
+        "jpred4": "__________hhhhhh_______________________________________________eee__________eee______",
+        "preds": "_______hhh___eeh_eh__h_____h__e____e__hhhh_h___eeeh__h__hh_hhee_e__h_____e_e_eeeh____"
     },
     {
         "sequence": "ESVLTQPPSASGTPGQRVTISCTGTSSNIGSITVNWYQQLPGMAPKLLIYRDAMRPSGVPTRFSGSKSGTSASLAISGLEAEDESDYYCASWNSSDNSYVFGTGTKVTVLGQPKANPTVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADGSPVKAGVETTKPSKQSNNKYAASSYLSLTPEQWKSHRSYSCQVTHEGSTVEKTVAPTECS",
-        "labels": "________ee______eeeeeee___________eeeee_______eee_____________eeeee___eeeeeee________eeeeeeee____eeee___eee____________eee___hhhhh___eeeeeeeeee_____eeeeee__eee___eee__________eeeeeeeee_hhhhhh___eeeeeee__eee__ee______"
+        "labels": "________ee______eeeeeee___________eeeee_______eee_____________eeeee___eeeeeee________eeeeeeee____eeee___eee____________eee___hhhhh___eeeeeeeeee_____eeeeee__eee___eee__________eeeeeeeee_hhhhhh___eeeeeee__eee__ee______",
+        "jpred4": "__eee_____ee____eeeeeeeee________eeeeee_______eeee________________________________________________________eeee________________________eeeee_________eeeee______________________eeeeeeeee_________eeeeeeee____eeeeee_____",
+        "preds": "________eeee_____eeee__e____e_he__he_ee_ee__eeee_hh___________heee_e__eeeeee________heeeeeee_e____hee___eh__e_h______h_h_e____hhhh__h_eeehee__e____heehe_eh_____e___h_____h________h__e____hhhe__e_he_heee___hehee______"
     },
     {
         "sequence": "EVQLVQSGGGVVQPGRSLRLSCSSSGFIFSSYAMYWVRQAPGKGLEWVAIIWDDGSDQHYADSVKGRFTISRNDSKNTLFLQMDSLRPEDTGVYFCARDGGHGFCSSASCFGPDYWGQGTPVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPQPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKRVEPKSCDKTHTCPPCP",
-        "labels": "__eeeee___ee_____eeeeeeee________eeeeee______eeeeee______eee_______eeeeee____eeeeee________eeeeeee_____________________eeeee________eeeee___________eeeeeeeeee_____eeee______________ee_____eeeeeeeee__________eeeeee____eeeeee_______hhhh_____"
+        "labels": "__eeeee___ee_____eeeeeeee________eeeeee______eeeeee______eee_______eeeeee____eeeeee________eeeeeee_____________________eeeee________eeeee___________eeeeeeeeee_____eeee______________ee_____eeeeeeeee__________eeeeee____eeeeee_______hhhh_____",
+        "jpred4": "_eeeee____ee____eeeeeeeee______eeeeeee______eeeeeeee______________eeee_______eeeeee_______________________________eeeeeeeeee__________________________eeeee_______eeeeee________e___________eeeeeeeee________eeeeeeee______eeeeee______________",
+        "preds": "__he____________e_ee_______ee_eh__ee_e______h___h________hheh__h___eee___h___h_eehehh____e_e__ee____e_he_h____e____h______ee_____e_h____ehh_ee_h___eeee__he__e____e__e_h__e_e______e_e_eh___e_e_e__e___h____eheee______e___h________h_hh__e____"
     },
     {
         "sequence": "GIVEQCCTSICSLYQLENYCN",
-        "labels": "_hhhhhhh____hhhh_____"
+        "labels": "_hhhhhhh____hhhh_____",
+        "jpred4": "__hhhhhhhhhhhhhhh____",
+        "preds": "__h_e__h__e_heeh__hhh"
     },
     {
         "sequence": "FVNQHLCGSHLVEALYLVCGERGFFYTPKA",
-        "labels": "________hhhhhhhhhhh____eee____"
+        "labels": "________hhhhhhhhhhh____eee____",
+        "jpred4": "________hhhhhhhhhh______ee____",
+        "preds": "__h_h___hhhe__hh_eheeh_e______"
     },
     {
         "sequence": "ATLKEQLIAHVAQQSETISHQKITVLGVRQVGMACGSSILMKSLADQLALLDAMEDKMKGEMMDLQHGSLFLWTPKIVGAKEYSLTEGTKLAVVTAGVRQQEGESRLNLLQRNANVFIFILPRIVKYSPNCLILVVSNPGDVLTYVAWKISGFPVGRVIGSGCNLDSARLRNVMAIKIVLGSLSCHGWLVGRHGDSGVPVWLGMNNAGVLQNLNQGMGWENDSEGWKEVHRMVVESAYEVIKLKGYENWIGLSVAESAETVMKNLYRVHPVSTLVKELHEIKEEVFLSLPCLLNQSGLREILKMLLKPEEVGQSKRSADILWGIQKELQ",
-        "labels": "_hhhhhh_______________eeee___hhhhhhhhhhhhh_____eeee___hhhhhhhhhhhhhh________ee____________eeee___________________________hhhhhh____eeee____hhhhhhhhhhhh______ee____hhhhhhhhhhhhhhh__________ee_______ee_____ee__ee_hhhh__________hhhhhhhhhhh______________hhhhhhhhhhhhh________eeee_________eeee__eeee__eeeee______hhhhhhhhhhhhhhhhhhhh__"
+        "labels": "_hhhhhh_______________eeee___hhhhhhhhhhhhh_____eeee___hhhhhhhhhhhhhh________ee____________eeee___________________________hhhhhh____eeee____hhhhhhhhhhhh______ee____hhhhhhhhhhhhhhh__________ee_______ee_____ee__ee_hhhh__________hhhhhhhhhhh______________hhhhhhhhhhhhh________eeee_________eeee__eeee__eeeee______hhhhhhhhhhhhhhhhhhhh__",
+        "jpred4": "__hhhhhhhh___________eeeeee___hhhhhhhhhhhh_____eeee_______hhhhhhhh_________eeee___hhh_____eeeee_________hhhhhhhhhhhhhhhhhhhhh_____eeeeeee___hhhhhhhhh_______eeeeee_hhhhhhhhhhhhhhh_______eeeee_______ee____eee_________________hhhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhh______eeeeeee_________eeeeeeeee____eeeee_____hhhhhhhhhhhhhhhhhhhh__",
+        "preds": "_____h_h__e__e__hh__eh_e___e_hh__e__e_h_h___hhhhhh__hhh_h_hhhhhhhhhh________he__h_ehe___e_hhee___________he_______hhheee_e_eehh__h_e_h_e_______ehh_hh__e__ee_he____hhhhe_ehhhh_eee_hhe__eh_eh_h______ee_ee_eh_e__hhe_ehh___h__eh__heehheh_ehhh______h___hehhhh____hee_h_hh_e___hhhh_ehhhe_________he_e_hh_eehhhhh___h__e__h_h_h_hhh_hhhhh"
     },
     {
         "sequence": "KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRYWCNDGKTPGAVNACHLSCSALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRDVRQYVQGCGV",
-        "labels": "____hhhhhhhhhh__________hhhhhhhhhhhh______eeee____eeee____ee_____________________________hhhhhhhhhhh_________hhhhhh_______________"
+        "labels": "____hhhhhhhhhh__________hhhhhhhhhhhh______eeee____eeee____ee_____________________________hhhhhhhhhhh_________hhhhhh_______________",
+        "jpred4": "____hhhhhhhhhh_____________hhhheee___________________eeeeee_____________________________hhhhhhhhhhhhhh____________________hh______",
+        "preds": "____eeh_h_hh_e_ee_____e_h_h__eh_ehhh_h___h_ee____h___e___h_____________h_e_hh_e_hh___h__h__hhhe_h_h_______hehhhh_hhh____h_eh_eeee_"
     },
     {
         "sequence": "MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNCNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRCALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL",
-        "labels": "___hhhh______eeeeee_____eeee__eeee______hhhhhhhhh__________hhhhhhhhhhhhhhhhhhhh_____hhhhhh__hhhhhhhhhhhhhh_hhhh___hhhhhhhh______________hhhhh_hhhhhhhhhhhhh_________"
+        "labels": "___hhhh______eeeeee_____eeee__eeee______hhhhhhhhh__________hhhhhhhhhhhhhhhhhhhh_____hhhhhh__hhhhhhhhhhhhhh_hhhh___hhhhhhhh______________hhhhh_hhhhhhhhhhhhh_________",
+        "jpred4": "__hhhhhhhh______________eeeeeeee___________________________hhhhhhhhhhhhhhhhhhhhhh___________hhhhhhhhhhhhh________hhhhhhhhhh__hhhhhhhhhh_________hhhhhhhhhhh__hhhh___",
+        "preds": "e___e_eh_______hh_h___h_eheeee_eh___h_____h_hh__e___h___e__h_h_hee__ehh_eh______h____h____ee____e__ee_e_he_e___eehh_hhhhhhh_hhhe_h_heh__hh_____hh__hhehe_hh_hhhhh_h_"
     },
     {
         "sequence": "KVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESNFNTQATNRNTDGSTDYGILQINSRWWCNDGRTPGSRNLCNIPCSALLSSDITASVNCAKKIVSDGNGMNAWVAWRNRCKGTDVQAWIRGCRL",
-        "labels": "____hhhhhhhhhh__________hhhhhhhhhhhh______eee_____eee____ee_____________________________hhhhhhhhhhhhhh______hhhhhh_______________"
+        "labels": "____hhhhhhhhhh__________hhhhhhhhhhhh______eee_____eee____ee_____________________________hhhhhhhhhhhhhh______hhhhhh_______________",
+        "jpred4": "____hhhhhhhhhh____________hhhhhhhhh_______ee______eeeeeeee______________________hhh____hhhhhhhhhhhhh_____________________________",
+        "preds": "____e_hhhhh_h__e________h_hhhhhhe_hh______ee__________e_hee_h_e____h___ee_h_e__ehhh_he_____e____he___h___eh_hhhhhh___hh___eh_h_he"
     },
     {
         "sequence": "VLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRFKHLKTEAEMKASEDLKKHGVTVLTALGAILKKKGHHEAELKPLAQSHATKHKIPIKYLEFISEAIIHVLHSRHPGDFGADAQGAMNKALELFRKDIAAKYKELGYQG",
-        "labels": "___hhhhhhhhhhhhhh___hhhhhhhhhhhhhhh_hhhh___________hhhhhh_hhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhhhhhhh____"
+        "labels": "___hhhhhhhhhhhhhh___hhhhhhhhhhhhhhh_hhhh___________hhhhhh_hhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhhhhhhh____",
+        "jpred4": "___hhhhhhhhhhhhhhhh_hhhhhhhhhhhhhhh_________________hh____hhhhhhhhhhhhhhhhhhh____hhhhhhhhhhhhhh_________hhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhhhhhh_____",
+        "preds": "_e__h_hh_eeeeeh__hh_ehhhhhhh_ehehhh__hhhh________h_hhhh__e_hhhhhhh_hh_hhhh_hh________hhhhhhhhhh_______hhhhhhhhhhhehhh___h___e_h______h_hhhhehh_hhhhhh__e_"
     },
     {
         "sequence": "GLSDGEWHLVLNVWGKVETDLAGHGQEVLIRLFKSHPETLEKFDKFKHLKSEDDMRRSEDLRKHGNTVLTALGGILKKKGHHEAELKPLAQSHATKHKIPIKYLEFISEAIIHVLHSKHPAEFGADAQAAMKKALELFRNDIAAKYKELGFHG",
-        "labels": "__hhhhhhhhhhhhhhhh__hhhhhhhhhhhhhhh__hhhhh_________hhhhh__hhhhhhhhhhhhhhhhhhh________hhhhhhhhhh_______hhhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhhhhhhh____"
+        "labels": "__hhhhhhhhhhhhhhhh__hhhhhhhhhhhhhhh__hhhhh_________hhhhh__hhhhhhhhhhhhhhhhhhh________hhhhhhhhhh_______hhhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhhhhhhh____",
+        "jpred4": "___hhhhhhhhhhhhhhhh_hhhhhhhhhhhhhhh_________________hhh___hhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhh__________hhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhhhhhhh____",
+        "preds": "___ehhehhheh____hhh_hh_hhhh_hh_hhhh_hhhhhehh____h__h__hh____hhhhhhhhehhhhheehh____hhhhhhhhhhhhh_____hhhhhhhhhhhhhh__h________hh____h_hhhheh_hhhhhhhhe____"
     },
     {
         "sequence": "GIGAVLKVLTTGLPALISWIKRKRQQ",
-        "labels": "_hhhhhhhhh__hhhhhhhhhhhhh_"
+        "labels": "_hhhhhhhhh__hhhhhhhhhhhhh_",
+        "jpred4": "__hhhhhhhh___hhhhhhhhh____",
+        "preds": "___h_he_eh_he__eehhe_eh__e"
     },
     {
         "sequence": "ALWQFRSMIKCAIPGSHPLMDFNNYGCYCGLGGSGTPVDELDRCCETHDNCYRDAKNLDSCKFLVDNPYTESYSYSCSNTEITCNSKNNACEAFICNCDRNAAICFSKAPYNKEHKNLDTKKYC",
-        "labels": "_hhhhhhhhhhh___________________________hhhhhhhhhhhhhhhh___________________eee____eee_____hhhhhhhhhhhhhhhhhh_________________"
+        "labels": "_hhhhhhhhhhh___________________________hhhhhhhhhhhhhhhh___________________eee____eee_____hhhhhhhhhhhhhhhhhh_________________",
+        "jpred4": "__hhhhhheeee___________________________hhhhhhhhhhhhhhhhhh___________eeeeeeeee___eeeee_____hhhhhhhhhhhhhhhhh_________________",
+        "preds": "_hhhhh_h_eh______hehh_________________hhhhe_hhhhhh__h____hhh_h_e______eeeeeeee__e_e_hhh__hhhhhhhhhhhhhhhh____________h__e__h"
     },
     {
         "sequence": "RTISKAKGPPRIPEVYLLPPPRNELSKKKVSLTCMITGFYPADINVEWDSSEPSDYKNTPPVFDTDGSFFLYSRLKVDTDAWNNGESFTCSVMHEALPNHVIQKSISRSPG",
-        "labels": "_______________________________eeeeee_______eee________eeeeeee_______eeeeee_______hhhh__eeeeee____eeeeee_______"
+        "labels": "_______________________________eeeeee_______eee________eeeeeee_______eeeeee_______hhhh__eeeeee____eeeeee_______",
+        "jpred4": "____________eeeeee___________eeeeeeee______eeeeee__________________eeeeeeeeee_________eeeeeeee______eeeeee_____",
+        "preds": "ehe__h___e____eee_____hhh__e_eeee_eeh_e____heee__e_______e___ee_h__h_eh_hh__e__h_e____eee_eee_____hhhh___ee____"
     },
     {
         "sequence": "GPSQPTYPGDDAPVEDLIRFYDNLQQYLNVVTRHRY",
-        "labels": "_____________hhhhhhhhhhhhhhhhhh_____"
+        "labels": "_____________hhhhhhhhhhhhhhhhhh_____",
+        "jpred4": "_____________hhhhhhhhhhhhhhhhhh_____",
+        "preds": "_________________hhe_h__e_heehee___e"
     },
     {
         "sequence": "DIQMTQSPSSLSASVGDRVTITCQASQDIIKYLNWYQQTPGKAPKLLIYEASNLQAGVPSRFSGSGSGTDYTFTISSLQPEDIATYYCQQYQSLPYTFGQGTKLQIT",
-        "labels": "___eeee__eeee_____eeeeeee_______eeeeee______eeeee___ee_______eeeeee__eeeeee_________eeeeee___________eeeee_"
+        "labels": "___eeee__eeee_____eeeeeee_______eeeeee______eeeee___ee_______eeeeee__eeeeee_________eeeeee___________eeeee_",
+        "jpred4": "_eeeee___eeeee____eeeeeee______eeeeeee_____eeeeeee__________eeeee____eeeeeee_______eeeeeeee____eee___eeeee_",
+        "preds": "__e___e__e____he_eeeee_eeehhe_hh__h_e_______eee_h__e__e_ee___eeee_h_h_heee_eh____eh__ee_he__e___e____h__ee_"
     },
     {
         "sequence": "VHQVLYRALVSTKWLAESVRAGKVGPGLRVLDASWYSPGTREARKEYLERHVPGASFFDIEECRDKASPYEVMLPSEAGFADYVGSLGISNDTHVVVYNGDDLGSFYAPRVWWMFRVFGHRTVSVLNGGFRNWLKEGHPVTSEPSRPEPAIFKATLNRSLLKTYEQVLENLESKRFQLVDSRAQGRYLGTQPEPDAVGLDSGHIRGSVNMPFMDFLTENGFEKSPEELRAMFEAKKVDLTKPLIATCRKGVTACHIALAAYLCGKPDVAIYDGSWFEWFHRAPPETWVSQGKG",
-        "labels": "________ee_hhhhhhhhhh______eeeee__________hhhhh________ee___________________hhhhhhhh_________eeee__________hhhhhhhhhh_____eeee__hhhhhhhh________________________ee___hhhhhhhh___eeee___hhhhh___________________ee_______________hhhhhhhhhh________eeee_______hhhhhhhhhh_____eee___hhhhhhh____________"
+        "labels": "________ee_hhhhhhhhhh______eeeee__________hhhhh________ee___________________hhhhhhhh_________eeee__________hhhhhhhhhh_____eeee__hhhhhhhh________________________ee___hhhhhhhh___eeee___hhhhh___________________ee_______________hhhhhhhhhh________eeee_______hhhhhhhhhh_____eee___hhhhhhh____________",
+        "jpred4": "___________hhhhhhhhh_______eeeeeeee________hhhhhh___________________________hhhhhhhhhh_______eeeeee______hhhhhhhhhhhhh__________hhhhhhh____________________________hhhhhhhhh____eeee______ee____________________________________hhhhhhhhhh________eeeee__hhhhhhhhhhhhhh____________hhhh_________ee___",
+        "preds": "hhhehhhheh______h_h___e___hheeh__eh_e___hh__h_hh_e____h_h__ehh___h____e_e__h__eh__eeh_h______eeee_____ee_e___eheh_e_eh__e__eeeeh____hh_h_ehe_e_______hhh_h_hhh_h_h_ehh_hhhh__hhhhe__e__hhh_h_______ee__e___e__e_______h__h_______heehh_h_eee_he_e_eehhehh_e___heehh_________eee__h_hhh__e__hh__eh____"
     },
     {
         "sequence": "KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV",
-        "labels": "___hhhhhhhhh____________hhhhhhhh__________eeeee___hhhhh_____eee________eee____eeeeeeee__________eeeeeeee_eeeeeee__eeeeeeeee_"
+        "labels": "___hhhhhhhhh____________hhhhhhhh__________eeeee___hhhhh_____eee________eee____eeeeeeee__________eeeeeeee_eeeeeee__eeeeeeeee_",
+        "jpred4": "___hhhhhhhhh____________hhhhhhhhhh__________eee___hhhhhhhh_____________eee_____eeeeeee_________eeeeee___eeeeee______eeee____",
+        "preds": "h_e_hhhhhehe_______e___h____e_heh_hh_____e_h_hhhhh____h___e__hhhhh_h__h_ehhe_eehe____e__h_____e_eheh_h__eheh_h_____h______ee"
     },
     {
         "sequence": "KEGYLVKKSDGCKYGCLKLGENEGCDTECKAKNQGGSYGYCYAFACWCEGLPESTPTYPLPNKSC",
-        "labels": "__ee__________________hhhhhhhh_______eeeee__eeeee________________"
+        "labels": "__ee__________________hhhhhhhh_______eeeee__eeeee________________",
+        "jpred4": "____________eeeeee_______hhhhhh_______eeee_______________________",
+        "preds": "_e_e_e__h___ee__eeee__h__h_h____________e_hh__h____h_____h_______"
     },
     {
         "sequence": "DKIVGGYTCGANTVPYQVSLNSGYHFCGGSLINSQWVVSAAHCYKSGIQVRLGEDNINVVEGNEQFISASKSIVHPSYNSNTLNNDIMLIKLKSAASLNSRVASISLPTSCASAGTQCLISGWGNTKSSGTSYPDVLKCLKAPILSDSSCKSAYPGQITSNMFCAGYLEGGKDSCQGDSGGPVVCSGKLQGIVSWGSGCAQKNKPGVYTKVCNYVSWIKQTIASN",
-        "labels": "______ee________eeeee___eeeeeeeee__eeee_________eeee____________eeeeeeeeee_____________eeeee________________________eeeeeeeeeee___eeeeeeeeeeeee___hhhhhhh________eeee________________eeee__eeeeeeeee_________eeeee____hhhhhhhhh__"
+        "labels": "______ee________eeeee___eeeeeeeee__eeee_________eeee____________eeeeeeeeee_____________eeeee________________________eeeeeeeeeee___eeeeeeeeeeeee___hhhhhhh________eeee________________eeee__eeeeeeeee_________eeeee____hhhhhhhhh__",
+        "jpred4": "______ee_______eeeeee____eeeeeee___eeeee_________eeeeee_________eeeeeeeee_____________eeeeee_________________________eeeeeeee____________________________________________________________eeeeeeeee____________eeee____hhhhhhhhh__",
+        "preds": "hheh___e_h_______hehe_e___eeeeeee_heeh___ehh_h_hehee___e_hhheeeeeeh__eeh_h_h____hh_h_e_ee_____h__e_hhee______hh_h__eehee____e______e_e_hhehh___hh_eee_h_e____h__h_hhee________h_______eeehee__ee_eeh_hh_e__h_____e_e__ehhhhhhh___"
     },
     {
         "sequence": "TSPQREATCTSEVSGCPKIYNPVCGTDGITYSNECVLCSENKKRQTPVLIQKSGPC",
-        "labels": "_______________ee_____eee____ee__hhhhhhhhh_______eeee___"
+        "labels": "_______________ee_____eee____ee__hhhhhhhhh_______eeee___",
+        "jpred4": "_______ee_____________ee_________hhhhhhhhhh____eeeee____",
+        "preds": "____eeh_eh_______e_______e__e____hhee__h__h_e__h_h_h____"
     },
     {
         "sequence": "APRKFFVGGNWKMNGKRKSLGELIHTLDGAKLSADTEVVCGAPSIYLDFARQKLDAKIGVAAQNCYKVPKGAFTGEISPAMIKDIGAAWVILGHSERRHVFGESDELIGQKVAHALAEGLGVIACIGEKLDEREAGITEKVVFQETKAIADNVKDWSKVVLAYEPVWAIGTGKTATPQQAQEVHEKLRGWLKTHVSDAVAVQSRIIYGGSVTGGNCKELASQHDVDGFLVGGASLKPEFVDIINAKH",
-        "labels": "_____eeeee______hhhhhhhhhhhhh_______eeeee____hhhhhhhh____eeeeee_______________hhhhhhh___eeee__hhhhhhh___hhhhhhhhhhhhh____eeeeeee_hhhhhh__hhhhhhhhhhhhhhh______eeeeeee___________hhhhhhhhhhhhhhhhhhh_hhhhhh_eeee_______hhhhhh______eeee_______hhhhhh____"
+        "labels": "_____eeeee______hhhhhhhhhhhhh_______eeeee____hhhhhhhh____eeeeee_______________hhhhhhh___eeee__hhhhhhh___hhhhhhhhhhhhh____eeeeeee_hhhhhh__hhhhhhhhhhhhhhh______eeeeeee___________hhhhhhhhhhhhhhhhhhh_hhhhhh_eeee_______hhhhhh______eeee_______hhhhhh____",
+        "jpred4": "____eeeeee______hhhhhhhhhhhhh_______eeeee_____hhhhhhh____eeeee_______________hhhhhhh____eeee_____hhh____hhhhhhhhhhhhh____eeeee___hhhhhhhhhhhhhhhhhhhh_________eeeeee____________hhhhhhhhhhhhhhhhhhh________eeee_____hhhhhhhhh______eee_______hhhhhhhh__",
+        "preds": "__________e____h_hh_hhhh_hhe_h_eeh__eeehh____ehhhhhhhh___ee___h_h________heh____he_he__eeeee___ee___e_h_hhh_hhhhhhh_hh__eh_e__ehee__eh____ee______e_h_h_eeee_hhhe_e_____he________he_eeheeh__hh_hehehh_eh__h_eh___e____hhheh_____he_ee__h__h_hh__e_eh__"
     },
     {
         "sequence": "MEEKLKKSKIIFVVGGPGSGKGTQCEKIVQKYGYTHLSTGDLLRAEVSSGSARGKMLSEIMEKGQLVPLETVLDMLRDAMVAKVDTSKGFLIDGYPREVKQGEEFERKIGQPTLLLYVDAGPETMTKRLLKRGETSGRVDDNEETIKKRLETYYKATEPVIAFYEKRGIVRKVNAEGSVDDVFSQVCTHLDTLK",
-        "labels": "_hhhhhh__eeeee________hhhhhhhhh___eeeehhhhhhhhhh___hhhhhhhhhhh______hhhhhhhhhhhhhhh______eeee_______hhhhhhhh_____eeeee___hhhhhhhhhhh__________hhhhhhhhhhhhhhh__hhhhhhhh__eeee_____hhhhhhhhhhhhhhh_"
+        "labels": "_hhhhhh__eeeee________hhhhhhhhh___eeeehhhhhhhhhh___hhhhhhhhhhh______hhhhhhhhhhhhhhh______eeee_______hhhhhhhh_____eeeee___hhhhhhhhhhh__________hhhhhhhhhhhhhhh__hhhhhhhh__eeee_____hhhhhhhhhhhhhhh_",
+        "jpred4": "_________eeeee_______hhhhhhhhhh____ee__hhhhhhhhhh___hhhhhhhhh_______hhhhhhhhhhhhhh_______eeee_____hhhhhhhhh_______eeeee_______________________hhhhhhhhhhhhhhhhhhhhhhhh___eeeee____hhhhhhhhhhhhhh__",
+        "preds": "h_hhhh___hee_____h__h__e__h_e_____h__e_h_hhhh_e____eh_hh_heh_h__ee___ehhh_hh__hhhheh__hee_hee__h_eh____h_h_hh__hh__ehhe_____ehhh__h_e____e__h__he_hhhhheheh____ehehhhh_e_ee_e__e__e___heehhh___h__"
     },
     {
         "sequence": "AGTTTTTTIDSLDDAYIVVIQLGTPAATLNLNFDTGSADLWVFAGGSSNNSGHNVYNSAASSASATLSTGKWSIAYAAGASASGLNRDGTVTVGGVTAHGQAVQAAAAAFAAQATNDGLLGLAFSSINTVQGSQNLFFVQGKSLAQTPLFSVYLAHQQGVYDFGLIDSSAYTGSLNYTGVASQGFWSFNVDSYTAGSGSTIGDVSSGIADTGTTVLYLPTSVVSAYYSQVSGATDSAAGGLDITCDGLTAMPAGVGSTKASVPLSTAYGGQGNGSSGCLGGIQSAAGIGLLIFGDIFIKASYVVFDSNNPNLGFAPAA",
-        "labels": "__ee_eee_______eeeeeee____eeeeeeee______________________________eeeeeeeeeeee___eeeeeeeeeeeeee__eeeeeeeeeeee__________eeee_______________hhhhhhhh_____eeee______eee_____________eeee_______eee________________eee_______eee_hhhhhhh______ee_______eee________________________________eee__eee______ee__hhhh____eee_____eeee____"
+        "labels": "__ee_eee_______eeeeeee____eeeeeeee______________________________eeeeeeeeeeee___eeeeeeeeeeeeee__eeeeeeeeeeee__________eeee_______________hhhhhhhh_____eeee______eee_____________eeee_______eee________________eee_______eee_hhhhhhh______ee_______eee________________________________eee__eee______ee__hhhh____eee_____eeee____",
+        "jpred4": "____eee_______eeeeeeee_____eeeeee_______________________________ee______eeee____eeeeeeeeeeeee__eee__eeeee_______________________________________________________eeeee_________eeeee______eeee____e___________eeee_____ee___hhhhhhhhhh___________ee_________eeee_____________________eeeeeee_______eeeehhhh__eeeeee____eeeee___",
+        "preds": "______eeeh_h__h_eeeeh_______eeeeee_____eeeeeh_e______________ee___eeh___h__eee___h_ee_____e____eeeeeeee_h__h_he__hhe__eee______hh_h____eeee_he_____he_heeh___heeeee___e________e_h_e__h___eeeeeeeee___hh__e_e___e__e__ee____eh__hhh____ee_eh_h__heheh___e____________e__e_____e_ee_h___eh__hehh_heeee_hh__ehee_eee_____eee____"
     },
     {
         "sequence": "AASGVATNTPTANDEEYITPVTIGGTTLNLNFDTGSADLWVFSTELPASQQSGHSVYNPSATGKELSGYTWSISYGDGSSASGNVFTDSVTVGGVTAHGQAVQAAQQISAQFQQDTNNDGLLGLAFSSINTVQPQSQTTFFDTVKSSLAQPLFAVALKHQQPGVYDFGFIDSSKYTGSLTYTGVDNSQGFWSFNVDSYTAGSQSGDGFSGIADTGTTLLLLDDSVVSQYYSQVSGAQQDSNAGGYVFDCSTNLPDFSVSISGYTATVPGSLINYGPSGDGSTCLGGIQSNSGIGFSIFGDIFLKSQYVVFDSDGPQLGFAPQA",
-        "labels": "___eeeeeee______eeeeeee__eeeeeeee_____eee______hhhh_______hhhh_eeeeeeeeeee_____eeeeeeeeeeeee__eeeeeeeeeeeeee_hhhhh_____eeee________________hhhhh_______eeeee______eeeee____________eeee________eeeeeeeee__eeeeeeeeee______eee_hhhhhhhh______eee____eeeee_______eeeee__eeeee_____eeee_____eeee_eee______eee_hhhh__eeeeee____eeeeee__"
+        "labels": "___eeeeeee______eeeeeee__eeeeeeee_____eee______hhhh_______hhhh_eeeeeeeeeee_____eeeeeeeeeeeee__eeeeeeeeeeeeee_hhhhh_____eeee________________hhhhh_______eeeee______eeeee____________eeee________eeeeeeeee__eeeeeeeeee______eee_hhhhhhhh______eee____eeeee_______eeeee__eeeee_____eeee_____eeee_eee______eee_hhhh__eeeeee____eeeeee__",
+        "jpred4": "______________eeeeeeeee____eeeeee____________________________________eeeeee____eeeeeeeeeeeee__ee_____eeeee_________________________________________________________eeee___________eeeee_______ee________________eeee__________hhhhhhhhhhhhh________eeee_______eeeee____eeee_____eee______eeeee_________eeeeehhh__eeeeee____eeee____",
+        "preds": "_h_____h________h________hh_e_eee_____heehh____h_hhh__h____h_eh_h_____eee___________ee__ehe___eeeeeeeehh_he_hhe_________eee______he_____h_____h_eh____h__eeeee_____eee_h_e_________eee_________eee_____________hhee_____h_hhe__e_h__________e_________h____e____e__hh__h______ee__e_e____e_e___eh_____eh___eeeh_eh__ee_____h_he____"
     },
     {
         "sequence": "AVKYYTLEQIEKHNNSKSTWLILHYKVYDLTKFLEEHPGGEEVLREQAGGDATEDFEDVGHSTDARELSKTFIIGELHPDDRSKI",
-        "labels": "___ee_hhhh___ee__eeeeee__eeee____________hhhhh___ee_hhhhhh____hhhhhh____eeeee________"
+        "labels": "___ee_hhhh___ee__eeeeee__eeee____________hhhhh___ee_hhhhhh____hhhhhh____eeeee________",
+        "jpred4": "_____hhhhhhhh_____eeeeee__ee__hhhh______hhhhhhh____hhhhhhh____hhhhhhhh____eee________",
+        "preds": "hh___e_h_hhee_h__h_h_ee__he___hh_h______hhh__h_h___hee__hhh___e_hh_eh__heh___________"
     },
     {
         "sequence": "WGYDDKNGPEQWSKLYPIANGNNQSPVDIKTSETKHDTSLKPISVSYNPATAKEIINVGHSFHVNFEDNQDRSVLKGGPFSDSYRLFQFHFHWGSTNEHGSEHTVDGVKYSAELHVAHWNSAKYSSLAEAASKADGLAVIGVLMKVGEANPKLQKVLDALQAIKTKGKRAPFTNFDPSTLLPSSLDFWTYPGSLTHPPLYESVTWIICKESISVSSEQLAQFRSLLSNVEGDNAVPMQHNNRPTQPLKGRTVRASF",
-        "labels": "___________________________ee_____ee____eeeeee_____eeeeee____eeeee_______eeeee_____eeeeeeeeee__________ee______eeeeeeeee______hhhh______eeeeeeeeee_______hhhhhh_________eee_______________eeeeee__________eeeeee___eee_hhhhhhh______________________________ee__"
+        "labels": "___________________________ee_____ee____eeeeee_____eeeeee____eeeee_______eeeee_____eeeeeeeeee__________ee______eeeeeeeee______hhhh______eeeeeeeeee_______hhhhhh_________eee_______________eeeeee__________eeeeee___eee_hhhhhhh______________________________ee__",
+        "jpred4": "__________________________________ee_______ee_______eeeee___eeeeee_____eeee________eeeeeeeee__________eee________eeeeee_________________eeeeeeeee_______hhhhhhhh_________ee________________eeee___________eeeeee_______hhhhhhhhhhh________________________eee___",
+        "preds": "______e_____h_he______ee___________e______eeeeheh__hhhhhh___heeh_h_e___h_eee____e___eh_eheeee_______h_eee_______e_hhheh_h_ehe__hhhhhhhh_eehe_h_e__h___h_h_hhhhhhh_e_h______________e__hehh____e__________eeeeeh_hee_ee_hhhhehhhh_e_eh________hh____________eh__e"
     },
     {
         "sequence": "QSKPEDLLKLRQGLMQTLKSQWVPIAGFAAGKADLPADAAQRAENMAMVAKLAPIGWAKGTEALPNGETKPEAFGSKSAEFLEGWKALATESTKLAAAAKAGPDALKAQAAATGKVCKACHQEFKQD",
-        "labels": "___hhhhhhhhhhhhhhhhhhhhhhhhhh_________hhhhhhhhhhhhhh__________________hhhh___hhhhhhhhhhhhhhhhhhhhhhhh_hhhhhhhhhhhhhhhhhhhhhh___"
+        "labels": "___hhhhhhhhhhhhhhhhhhhhhhhhhh_________hhhhhhhhhhhhhh__________________hhhh___hhhhhhhhhhhhhhhhhhhhhhhh_hhhhhhhhhhhhhhhhhhhhhh___",
+        "jpred4": "___hhhhhhhhhhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhh___________________hh____hhhhhhhhhhhhhhhhhhhhhhh__hhhhhhhhhhhhhhhhhhhhhhh__",
+        "preds": "____eheh_e__h_hhhee_ee_h__hh__he_____hh_hh___ehh_hheh__e___hh_ee__h___e_e_he___hhh__h_hhh_____ehh_h_____hehhe___hh__ehh__heehh_"
     },
     {
         "sequence": "TPLVHVASVEKGRSYEDFQKVYNAIALKLREDDEYDNYIGYGPVLVRLAWHTSGTWDKHDNTGGSYGGTYRFKKEFNDPSNAGLQNGFKFLEPIHKEFPWISSGDLFSLGGVTAVQEMQGPKIPWRCGRVDTPEDTTPDNGRLPDADKDADYVRTFFQRLNMNDREVVALMGAHALGKTHLKNSGYEGPWGAANNVFTNEFYLNLLNEDWKLEKNDANNEQWDSKSGYMMLPTDYSLIQDPKYLSIVKEYANDQDKFFKDFSKAFEKLLEDGITFPKDAPSPFIFKTLEEQGL",
-        "labels": "______________hhhhhhhhhhhhhhhhh___hhhh___hhhhhhhhhhhh___________________hhhh________hhhhhhhhhhhhh_____hhhhhhhhhhhhhhh________________________________hhhhhhhhh_____hhhhhhhh______ee_hhhh___ee__________hhhhhhhh__eeeee_____eeeee____ee_hhhhhhhh_hhhhhhhhhhh__hhhhhhhhhhhhhhhhh_________________hhhh__"
+        "labels": "______________hhhhhhhhhhhhhhhhh___hhhh___hhhhhhhhhhhh___________________hhhh________hhhhhhhhhhhhh_____hhhhhhhhhhhhhhh________________________________hhhhhhhhh_____hhhhhhhh______ee_hhhh___ee__________hhhhhhhh__eeeee_____eeeee____ee_hhhhhhhh_hhhhhhhhhhh__hhhhhhhhhhhhhhhhh_________________hhhh__",
+        "jpred4": "_______________hhhhhhhhhhhhhhhhh__________hhhhhhhh____________________________________hhhhhhhhhhh________hhhhhhhhhh__________________________________hhhhhhhh______hhhhhhh_____eeeee___________________hhhhhhhh____________hhhh_________hhhhh_____hhhhhhhhh__hhhhhhhhhhhhhhh____________eeee_________",
+        "preds": "__h_e_e_e_eeh__eehhhe__ehehhe__h_______hee___hehhehhh____h___h___e____h_h_he_h______h__h_h_eh__e___ee_he_hhhh__h_e___h_______eh___________h__e___h_____hh_hhe_eh_h_hhh_h______hhh_hee_____________h__e__he_h__hhhe_eh__ehh_h_heeeee__ee_h___e______eehee________hehhehh__hhhh_h___________e_hhhhhh___"
     },
     {
         "sequence": "VLSAADKTNVKAAWSKVGGHAGEYGAEALERMFLGFPTTKTYFPHFDLSHGSAQVKAHGKKVADGLTLAVGHLDDLPGALSDLSNLHAHKLRVDPVNFKLLSHCLLSTLAVHLPNDFTPAVHASLDKFLSSVSTVLTSKYR",
-        "labels": "___hhhhhhhhhhh______hhhhhhhhhhhhhhh_________________hhhhhhhhhhhhhhhhhhh____hhhh______hhhh________hhhhhhhhhhhh____________hhhhhhhhhhhhhhh_____"
+        "labels": "___hhhhhhhhhhh______hhhhhhhhhhhhhhh_________________hhhhhhhhhhhhhhhhhhh____hhhh______hhhh________hhhhhhhhhhhh____________hhhhhhhhhhhhhhh_____",
+        "jpred4": "___hhhhhhhhhhhhhhh__hhhhhhhhhhhhhhhh________________hhhhhhhhhhhhhhhhhhh____hhhhhhhhhhhhhhh________hhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhh___",
+        "preds": "___h_hhhhhh_hh_______hhhhhhhhh_hhh__________________hheh_hh_e_h_hheee___e__h_h__hh_hh_hh_______hhhhhhhhehh_heh______e_hhhhhhh__hh_hhhhhh_____"
     },
     {
         "sequence": "VQLSGEEKAAVLALWDKVNEEEVGGEALGRLLVVYPWTQRFFDSFGDLSNPGAVMGNPKVKAHGKKVLHSFGEGVHHLDNLKGTFAALSELHCDKLHVDPENFRLLGNVLALVVARHFGKDFTPELQASYQKVVAGVANALAHKYH",
-        "labels": "______hhhhhhh________hhhhhhhhhhhhh_________________hhhhh_hhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhh_____"
+        "labels": "______hhhhhhh________hhhhhhhhhhhhh_________________hhhhh_hhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhh_____",
+        "jpred4": "____hhhhhhhhhhh______hhhhhhhhhhhhhh______________________hhhhhhhhhhhhhhhhhhh____hhhhhhhhhhhh___________hhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhh___",
+        "preds": "_____e_h_eh_he_h__h__hhhhhhhhhhhhh________________hh__h__hhhhhhhhhheh_h_______h_hhhhhhhhhhhhhh______hhhhhhhhhhhhhhh_hh__ee___hhhehhhhhhhhhhhhh____"
     },
     {
         "sequence": "AFVVTDNCIKCKYTDCVEVCPVDCFYEGPNFLVIHPDECIDCALCEPECPAQAIFSEDEVPEDMQEFIQLNAELAEVWPNITEKKDPLPDAEDWDGVKGKLQHLER",
-        "labels": "__________________________________________________________________________________________________________"
+        "labels": "__________________________________________________________________________________________________________",
+        "jpred4": "__ee____________________eee___eeeee________eeee______eee_____hhhhhhhhhhhhhhhh_____________________________",
+        "preds": "_eh___h_ee___h____e_____e__e__ee_e___________________hh_h____h_hhhhee_____h_h__h_hhh__h___e_e_______hhhh__"
     },
     {
         "sequence": "IVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGVTTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSAVCLPSASDDFAAGTTCVTTGWGLTRY",
-        "labels": "____ee________eeeee_____eeeeeeeee__eeee__________eeee____________eeeeeeeeee_____________eeeee__________________________eeeeee______"
+        "labels": "____ee________eeeee_____eeeeeeeee__eeee__________eeee____________eeeeeeeeee_____________eeeee__________________________eeeeee______",
+        "jpred4": "_____________eeeeeee___eeeeeeeee___eeeee_________eeeeeee_________eeeeeeeeee_____________eee_____________eee____________eeeeeee_____",
+        "preds": "_h____________eeeehh__e_e__eeeeee__eeehe__h__eheeeee_____ehh_heh___ehh__eh____h_e_heh___heeehe_eeee_____e_e___h_h_____e_ee_he_____e"
     },
     {
         "sequence": "TPDRLQQASLPLLSNTNCKKYWGTKIKDAMICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQTLAAN",
-        "labels": "_____eeeeee___hhhh___________eeeee_____________eeeeee__eeeeeeeeee_________eeeeee____hhhhhhhhhh_"
+        "labels": "_____eeeeee___hhhh___________eeeee_____________eeeeee__eeeeeeeeee_________eeeeee____hhhhhhhhhh_",
+        "jpred4": "____eeeeeeee__hhhhhhh________eeee_______________________eeeeeeee____________eeeee___hhhhhhhh___",
+        "preds": "____he_h___e___h_hhh_____he_h_e_e___e_he________eh_he__eeh__heeee___eee___h__eeeeh_hee_e__he___"
     },
     {
         "sequence": "MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVLVKITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDRLRLVPAK",
-        "labels": "___________________________________ee_____ee___________________________________________"
+        "labels": "___________________________________ee_____ee___________________________________________",
+        "jpred4": "__eeeeee___eeeeeeee____eeeeeeeeeeeee______eeeeee___________eeee____eee_____eeeeeeee____",
+        "preds": "eeeee____eh______________he_hhe_e_e_______e_he_e______h______e_ehh________e_ehhhh_____h"
     },
     {
         "sequence": "KSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLKGPSTLDELFEELDKNGDGEVSFEEFQVLVKKISQ",
-        "labels": "__hhhhhhhhhhhh__________hhhhhhhhhhh_hhhh_____hhhhhhhh_________hhhhhhhhhhhh_"
+        "labels": "__hhhhhhhhhhhh__________hhhhhhhhhhh_hhhh_____hhhhhhhh_________hhhhhhhhhhhh_",
+        "jpred4": "__hhhhhhhhhhhh__________hhhhhhhhhhh_______hhhhhhhhhhhh_____eehhhhhhhhhhhh__",
+        "preds": "__h__h____h___h_______h_h_hehh_hh_e___h___h__h_h_hhhh___h_heeeeh_h__e_hh___"
     },
     {
         "sequence": "IIGGRECEKNSHPWQVAIYHYSSFQCGGVLVNPKWVLTAAHCKNDNYEVWLGRHNLFENENTAQFFGVTADFPHPGFNLS",
-        "labels": "____ee________eeeeee__eeeeeeeeee__eeee_________eeee____________eee_eeeeee_______"
+        "labels": "____ee________eeeeee__eeeeeeeeee__eeee_________eeee____________eee_eeeeee_______",
+        "jpred4": "_____________eeeeeee___eeeeeeee___eeeee_______eeeeeeeee_______eeeeeeeeeee_______",
+        "preds": "____ee__e_______ee_eh______hhe___h_eeeh_______ee__e__h__h_heh_ehe__________h__h_"
     },
     {
         "sequence": "ADGKDYSHDLMLLRLQSPAKITDAVKVLELPTQEPELGSTCEASGWGSIEPGPDDFEFPDEIQCVQLTLLQNTFCADAHPDKVTESMLCAGYLPGGKDTCMGDSGGPLICNGMWQGITSWGHTPCGSANKPSIYTKLIFYLDWIDDTITENP",
-        "labels": "__________eeeee________________________eeeeee_________________eeeeeeee________________eeeee_______________eeee__eeeeeeee___________eeeee____hhhhhhhhhh__"
+        "labels": "__________eeeee________________________eeeeee_________________eeeeeeee________________eeeee_______________eeee__eeeeeeee___________eeeee____hhhhhhhhhh__",
+        "jpred4": "_________eeeeee_________eeeee___________eeeeeeeee____________eeeeeeeee________________________________________eeeeeeeeee____________eeee_____hhhhhhh____",
+        "preds": "____h__h_hehe_______h_hhhe_e_e_________eee____h_____________h__ee_eehe__________h_e_hhhee___e_____ee______eee_____e_e__e_e____e_______h__eh_e_he_eh_____"
     },
     {
         "sequence": "PDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA",
-        "labels": "________________eeeee________eeeee____________hhhhhhh____"
+        "labels": "________________eeeee________eeeee____________hhhhhhh____",
+        "jpred4": "________________eeeeee_____eeeeeeee_________hhhhhhhhhh___",
+        "preds": "________________eeeeeee____eeeeeee____________hhhhhhhh___"
     },
     {
         "sequence": "GALTESQAALVKSSWEEFNANIPKHTHRFFILVLEIAPAAKDLFSFLKGTSEVPQNNPELQAHAGKVFKLVYEAAIQLEVTGVVVTDATLKNLGSVHVSKGVADAHFPVVKEAILKTIKEVVGAKWSEELNSAWTIAYDELAIVIKKEMDDAA",
-        "labels": "____hhhhhhhhhhhhhhh__hhhhhhhhhhhhhhh_____________________hhhhhhhhhhhhhhhhhhhhhhhh______hhhhhhhhhhhh_______hhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhhhhhhhhh_"
+        "labels": "____hhhhhhhhhhhhhhh__hhhhhhhhhhhhhhh_____________________hhhhhhhhhhhhhhhhhhhhhhhh______hhhhhhhhhhhh_______hhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhhhhhhhhh_",
+        "jpred4": "____hhhhhhhhhhhhhhh__hhhhhhhhhhhhhhhhhhhhhh______________hhhhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhhh________hhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhhhhh___",
+        "preds": "____e_h_hh__heeehh_h___hh__eeeehhe_e___h__h_h_hh____e____h__hh_h_he__ee__ehheeheee_ee_e_h_h_h_h_ee_hhh_____h_h_ehe____hh____h____h____hh_h_hehe_ehh_e__hh"
     },
     {
         "sequence": "DIVMTQSPSSLSVSAGERVTMSCKSSQSLLNSGNQKNFLAWYQQKPGQPPKLLIYGASTRESGVPDRFTGSGSGTDFTLTISSVQAEDLAVYYCQNDHSYPLTFGAGTKLEIKRADAAPTVSIFPPSSEQLTSGGASVVCFLNNFYPKDINVKWKIDGSERQNGVLNSWTDQDSKDSTYSMSSTLTLTKDEYERHNSYTCEATHKTSTSPIVKSFNRNEC",
-        "labels": "___eeee__eeee_____eeeeeee_____________eeeeee______eeeee___ee_______eeeeee__eeeeee________eeeeeee______ee____eeee_______eeeee___hhhh___eeeeeeeeeee_____eeeee_________eeeee_________eeeeeeeeeehhhh____eeeeeee_______eeeeee____"
+        "labels": "___eeee__eeee_____eeeeeee_____________eeeeee______eeeee___ee_______eeeeee__eeeeee________eeeeeee______ee____eeee_______eeeee___hhhh___eeeeeeeeeee_____eeeee_________eeeee_________eeeeeeeeeehhhh____eeeeeee_______eeeeee____",
+        "jpred4": "_eeeee____eeee____eeeeeee____________eeeeee_______eeeee____________________________________________ee________eeee_________________________eee__________eeeee_________ee__________eeeeeeeeee_________eeeeeeee______eeeeee____",
+        "preds": "__eeee___e_e____he__h_h___ee_e__ee_h_h_e_hee_______ehe___ee________e_eee_e_eeheeeeee_h__he_ee_e______h________eeh_________e____h________eh____h_e____he_heh_____________h__e_hh___e__e_e_ee_h_hhe_e_h_e_ee_hh__e__e___e____h"
     },
     {
         "sequence": "EVKLVESGGGLVQPGGSLRLSCATSGFTFSDFYMEWVRQPPGKRLEWIAASRNKGNKYTTEYSASVKGRFIVSRDTSQSILYLQMNALRAEDTAIYYCARNYYGSTWYFDVWGAGTTVTVSSESARNPTIYPLTLPPALSSDPVIIGCLIHDYFPSGTMNVTWGKSGKDITTVNFPPALASGGRYTMSNQLTLPAVECPEGESVKCSVQHDSNPVQELDVNC",
-        "labels": "__eeeee___ee____eeeeeeeee_______eeeeeee______eeeee___________________eeeeee____eeeeeee_______eeeeeeeeee___eeeeee___eeeee________eeeee__________eeeeeeeeee_____eeeee_______eeee___ee_____eeeeeeeee__________eeeeeee_____eeeee__"
+        "labels": "__eeeee___ee____eeeeeeeee_______eeeeeee______eeeee___________________eeeeee____eeeeeee_______eeeeeeeeee___eeeeee___eeeee________eeeee__________eeeeeeeeee_____eeeee_______eeee___ee_____eeeeeeeee__________eeeeeee_____eeeee__",
+        "jpred4": "_eeeee____ee____eeeeeeeee_______eeeeeee______eeeeeee______ee_________eeee______eeeeee__________eeeee___________eeeeee__________________________eeeeee_________eeeeee____________________eeeeeeeee_________eeeeeeee____eeeee___",
+        "preds": "_eeeeh__e_ee______eee___e__eheehhhhee______hhhhe___h____e_ehhhee__he__eeeh_____h_ee_ehhh_h___hheeee__h____eh_hee_h_heeee___h__e_hh_e_____e____eeeeheeeee_______hhe_h____he___ee__ehe____h___hheee___________he_eeh____h_h_e___"
     },
     {
         "sequence": "GSMQIRVLVTGAAQLAFTLLYSIGDGSVFGKNQPILLSLMDVVPKQQTSEAVNMQLQNCALPLLKSQFGKNSGNYASQNVGVLLAGQRAKNAAKNLKANVKIFKCQGAALNKYWKKSVIVIVVGNPATNNCLTASKNSAQLNKAKQVNSVKLNHNRAKSMLSQKLGNSPKLSKNVILYGQHGQSQFSGLIQLQLQNKQSAGVRASKNQSWKTSIYNNVIQQRGVVHVQARTANNSMKTGFALNLYVKHLWKGISQKLAQMGLIAHGKAAASPKQNFSCVTRLQNKTWKIVEGLPINDFSREKMNETAKELAEEETEFAEKNSNA",
-        "labels": "______eeee_____hhhhhhhhh___________eeeee_____hhhhhhhhhhhhhh_____eeeee__________eeee________________hhhhhhhhhhhhh______eeee______hhhhhhhhh________eee________hhhhhhhhh______ee___________________eee___eee___________hhhhhhh___hhhh_________hhhhhhhhhhhhhhhh______eeeeee___________eeeeeeeee__eeee________hhhhhhhhhhhhhhhhhhhhh_hhhh_"
+        "labels": "______eeee_____hhhhhhhhh___________eeeee_____hhhhhhhhhhhhhh_____eeeee__________eeee________________hhhhhhhhhhhhh______eeee______hhhhhhhhh________eee________hhhhhhhhh______ee___________________eee___eee___________hhhhhhh___hhhh_________hhhhhhhhhhhhhhhh______eeeeee___________eeeeeeeee__eeee________hhhhhhhhhhhhhhhhhhhhh_hhhh_",
+        "jpred4": "____eeeeeee___hhhhhhhhhhhhhh_______eeeeee______hhhhhhhhhh_________ee____hh_____eeeeee______hhhhhhhhhhhhhhhhhhhhhh____eeeeee____hhhhhhhhh________eeeeeehhhhhhhhhhhhhhh_______eeeeeee_____eeeeee____________________hhhhhhhhhhh_hhhhhhh______hhhhhhhhhhhhhhh______eeeeeee_________eeeeeeeee_____eeeee_____hhhhhhhhhhhhhhhhhhhhhhhhh___",
+        "preds": "_hee_eeeee_h__heh_hhhhhhh_________hehh__h_____h__hhheeh_h_he_e_____h___e_______eh_hhhh_hhhhhe___hh__eehe_hh__hh_eeeh_heeeee______h_ehh_h__e__hh__h__he_____hhe_ehh_hh_____ee__heheh__eh__e___eehee__heh___ee_e__h_h__e__e_hh____ehhe_hee__hh__h___h_hhhehhh__hh_hhh___hhhhhh______hehheh__eh_eheeeh_eh_eh___h___e__hh_h_e_hh_he_____"
     },
     {
         "sequence": "GSPQIRVLVTGAAQLGFTLLYSIGDGSVFGKNQPILVNSMDQRPKAGANKGVQMELQNCAALPNLLKSQGTKSTGNGYKNNNIGVLVAGEAAAAAAATANAVKKFKKKGAAKAKKAKAKVAVIKKGKAAKKKKKKASAGKKAKAKARKVVVVRKDKKRAKALIAAKKGKAKKKVKKIVKWGKHGRAKGVKVVKGKAAAAAAKKKKAKKKIAWKAGAKKKAAAKKAKAAAAAAAAKAKKAAKAVCKHIKKIFKAAKAVHAAKAKKAKAAAKWKAKKAAFKKAAKIKAKAWKIVKGLKIKAFKKAKKKVKAAKKAAGKKKGKFLAAA",
-        "labels": "____eeeeee___hhhh__hhhhhh_________eeeeee_______hhhhhhhhhh_______eeeeeee___________eeee________________hhhhhhhhhhhh______eeee____hhhhhhhhhh_______________hhhhhhhhhhhhhh______ee__eee_______eee____ee_____ee______hhhh__hhhhhhhh____________hhhhhhhhhhhhhhhhh______eeeeee____________eeeeeeeee__eeee_______hhhhhhhhhhhhhhhhhhhhhh_____"
+        "labels": "____eeeeee___hhhh__hhhhhh_________eeeeee_______hhhhhhhhhh_______eeeeeee___________eeee________________hhhhhhhhhhhh______eeee____hhhhhhhhhh_______________hhhhhhhhhhhhhh______ee__eee_______eee____ee_____ee______hhhh__hhhhhhhh____________hhhhhhhhhhhhhhhhh______eeeeee____________eeeeeeeee__eeee_______hhhhhhhhhhhhhhhhhhhhhh_____",
+        "jpred4": "____eeeeeee___hhhhhhhhhhhhh______eeeeeeee_______hhhhhhhhhh_________________hh____eeeeee_______hhhhhhhhhhhhhhhhhhhhhh____eeeee_____hhhhhhhhh_______eeeeeeehhhhhhhhhhhhhh_______eeeeeee_____eeeeeee__________hhhh_____hhhhhhhhhhhhhhhhhhhh__hhhhhhhhhhhhhhhhh______eeeeeeee__________eeeeeeeee___eeeeee_____hhhhhhhhhhhhhhhhhhhhhhhhh__",
+        "preds": "__eee_eeee____hhhh_hhhhh__________eeee_______e_h____hhhh_h____hh_hhhheh_hh_____h___h__ee___hh_hh_h_e__hh__h____h_hheehehheeh____hhhhh_h_______h_hhee_h__hh_hhh_hhhhhhhh__ehhhh__ehh__h___h__ehe_h__ehhhhhh_hh_hh_hee____h_hhhhhhhhh_h_hhhhhhhh_hh_h_hh_e_eehhhhehhhhh_hhhhhhhhhh__hh_hhhhh_eh_h_ehehh__eehehhhhhhh_hhhehh_____eehhhh_"
     },
     {
         "sequence": "MDPNCSCATDGSCSCAGSCKCKQCKCTSCKKSCCSCCPVGCAKCSQGCICKEASDKCSCCA",
-        "labels": "_____________________________________________________________"
+        "labels": "_____________________________________________________________",
+        "jpred4": "______________________________hh_____________________________",
+        "preds": "_eh____eh__e__e_h_he__ehh___eheee__h__ee___h____e_____h____h_"
     },
     {
         "sequence": "CPLMVKVLDAVRGSPAINVAVHVFRKAADDTWEPFASGKTSESGELHGLTTEEQFVEGIYKVEIDTKSYWKALGISPFHEHAEVVFTANDSGPRRYTIAALLSPYSYSTTAVVT",
-        "labels": "__eeeeeee____ee____eeeeeee_____eeeeeeee_____ee___________eeeeeee_hhhhhhhh_____eeeeeeeeee_______eeeeeeee__eeeeeeee_"
+        "labels": "__eeeeeee____ee____eeeeeee_____eeeeeeee_____ee___________eeeeeee_hhhhhhhh_____eeeeeeeeee_______eeeeeeee__eeeeeeee_",
+        "jpred4": "___eeeeee_________eeeeeeee_____eeeeeeeee__________________eeeeeee_hhhhhh________eeeeeeeee_______eeeeee_______eeee_",
+        "preds": "____hhhhhh__h___eh_hhhh_eh_h_________e_ee_____e____he__h_heeehee_hh__hee___h__e_hh__hh__h_____ee__ee__h___ee__eh_h"
     },
     {
         "sequence": "ESVLTQPPSASGTPGQRVTISCTGSATDIGSNSVIWYQQVPGKAPKLLIYYNDLLPSGVSDRFSASKSGTSASLAISGLESEDEADYYCAAWNDSLDEPGFGGGTKLTVLGQPK",
-        "labels": "________eeee_____eeeeee__________eeeee_______eeee_____________eeeeee__eeeeee________eeeeeeeee____eeee___eeeee_____"
+        "labels": "________eeee_____eeeeee__________eeeee_______eeee_____________eeeeee__eeeeee________eeeeeeeee____eeee___eeeee_____",
+        "jpred4": "__eee____eeee____eeeeeee_________eeeeee______eeeeee___________eee_____eeeeeee_______eeeeeeee______eee___eeeeee____",
+        "preds": "________ee______eeeeeeeee__hhe__hehheeeh_____eeee_e__h____h___h__ee___eeeeeeee_e____hee_heeh______e______hh__h____"
     },
     {
         "sequence": "IAGGEAITTGGSRCSLGFNVSVNGVAHALTAGHCTNISASWSIGTRTGTSFPNNDYGIIRHSNPAAADGRVYLYNGSYQDITTAGNAFVGQAVQRSGSTTGLRSGSVTGLNATVNYGSSGIVYGMIQTNVCAQPGDSGGSLFAGSTALGLTSGGSGNCRTGGTTFYQPVTEALSAYGATVL",
-        "labels": "_____eeee__eeee__eeeee__eeeeee_hhhh____ee__eeeeeee_____eeeeee________eee_____eee__ee_______eeeeee___eeeeeeeeeeeeeee_____eeeeeeee___________eeee__eeeeeeeeeeee___eeeeeeeehhhhhhhh_eee_"
+        "labels": "_____eeee__eeee__eeeee__eeeeee_hhhh____ee__eeeeeee_____eeeeee________eee_____eee__ee_______eeeeee___eeeeeeeeeeeeeee_____eeeeeeee___________eeee__eeeeeeeeeeee___eeeeeeeehhhhhhhh_eee_",
+        "jpred4": "_____eeee___eeeeeeeeee___eeeeeeeee______eeeeeeee______eeeeeee_________________eee__________eeeee______eeeeeee___eee_____eeeeeeee___________eeee__eeeeeeee________eeeeeeehhhhhhh______",
+        "preds": "_h___he____hhhe__eeh___hehh_hehh_hh_e_e_e______e_______ee______hh___hhehh_e__ehh______ehee_h_eeeehh____e_he___ee_e___e_h_e_e_ee_h_hh______h_eh___e_eeeeeeee_e__e____e_eehheheehh_eheh"
     },
     {
         "sequence": "ATSTKKLHKEPATLIKAIDGDTVKLMYKGQPMTFRLLLVDTPETKHPKKGVEKYGPEASAFTKKMVENAKKIEVEFNKGQRTDKYGRGLAYIYADGKMVNEALVRQGLAKVAYVYKPNNTHEQHLRKSEAQAKKEKLNIWS",
-        "labels": "________eeee_eeee____eeee______eeeee_________________________hhhhhh____eeee____________eee__ee__eehhhhhhh________________hhhhhhhhhhhhh_______"
+        "labels": "________eeee_eeee____eeee______eeeee_________________________hhhhhh____eeee____________eee__ee__eehhhhhhh________________hhhhhhhhhhhhh_______",
+        "jpred4": "_________eeeeeeeee___eeeeee___eeeeeeeee_______________hhhhhhhhhhhhh___eeeeeee_______eeeeeeeehhhhhhhhhhhhhhhheeeee________hhhhhhhhhhhhhh______",
+        "preds": "____ee_e______hh_____eeee_h___e_hhh_e_____________e_eheh___h__he_hh__hheh_ee_h______hhhh_eeh_e___ee__hh____he_h_e_e__h_hh_hhh___e__hh_eheheh_"
     },
     {
         "sequence": "ATKAVCVLKGDGPVQGTIHFEAKGDTVVVTGSITGLTEGDHGFHVHQFGDNTQGCTSAGPHFNPLSKKHGGPKDEERHVGDLGNVTADKNGVAIVDIVDPLISLSGEYSIIGRTMVVHEKPDDLGRGGNEESTKTGNAGSRLACGVIGIAK",
-        "labels": "___eeeee______eeeeeeeee__eeeeeeeee____eeeeeeee__________________________________eeeeeee_____eeeeeee______________eeeee______________________eeeeee_ee__"
+        "labels": "___eeeee______eeeeeeeee__eeeeeeeee____eeeeeeee__________________________________eeeeeee_____eeeeeee______________eeeee______________________eeeeee_ee__",
+        "jpred4": "__eeeeee_____eeeeeeeee____eeeeeeee______eeeeee_______________________________________e_____eeeeeee____ee________eeeeee_______________________eeeeeeee__",
+        "preds": "__h__h_e____eee__hh__e____eee______h____h_ehe_e_eh____e_h__h_____h________he____h_h_h______h_e________e__e_eehe_heehhe_____e______heee_____h_hhhe___h_e"
     },
     {
         "sequence": "YAPSALVLTVGKGVSATTAAPERAVTLTCAPGPSGTHPAAGSACADLAAVGGDLNALTRGEDVMCPMVYDPVLLTVDGVWQGKRVSYERVFSNECEMNAHGSSVFAF",
-        "labels": "____eeeeee____________eeeeee_____ee____hhhhhhhhhhh________________________eeeeee__eeeeee_____hhhhhh________"
+        "labels": "____eeeeee____________eeeeee_____ee____hhhhhhhhhhh________________________eeeeee__eeeeee_____hhhhhh________",
+        "jpred4": "____eeeeeeee_________eeeeeeee__________hhhhhhhhhh_________________eee__eeeeeeeeee_eeeeeeee____eeeee________",
+        "preds": "______eeeee_e________hheeee_e__eh____h_e__eheeh_e___h__hhh_h____e__e___hee_____h_e_hh_eeeh_ehhe______eheehh"
     },
     {
         "sequence": "TMRAVKRMINTHLEHKRFALINSGNTNATAGTVQNLSNGIIQGDDINQRSGDQVRIVSHKLHVRGTAITVSQTFRFIWFRDNMNRGTTPTVLEVLNTANFMSQYNPITLQQKRFTILKDVTLNCSLTGESIKDRIINLPGQLVNYNGATAVAASNGPGAIFMLQIGDSLVGLWDSSYEAVYTDA",
-        "labels": "_hhhhhhhhh____eeeeeeeeeeee_____eeee_________________eeeeeeeeeeeeee_____eeeeeeeeee_________hhhh___________hhhhh___eeeeeeeeeee______eeeeeeeee__eee______________eeeeeeee_____eeeeeeeeeee__"
+        "labels": "_hhhhhhhhh____eeeeeeeeeeee_____eeee_________________eeeeeeeeeeeeee_____eeeeeeeeee_________hhhh___________hhhhh___eeeeeeeeeee______eeeeeeeee__eee______________eeeeeeee_____eeeeeeeeeee__",
+        "jpred4": "__hhhhhhhhh_hhhhhhhh____________heh_____________eeeeeeeeeeeeeeee________eeeeeeeee______hhhhhhhh__________ee______eeeeeeeee_______eeeeeeee___eeeee_____________eeeeeee_______eeeeeeeeee__",
+        "preds": "h___eh_eeehehheh_heeeh_e___h___eeh_eehhh_e___h_______eeehee_hhh_eeeeeheeheh_hhhh____e____eeh_h__he_hh_h___he_h__h___h____e_________e_e_h___heeee____h_heh___h__h_hee__h_ehh_____hh_eeh__"
     },
     {
         "sequence": "ATPADWRSQSIYFLLTDRFARTDGSTTATCNTADQKYCGGTWQGIIDKLDYIQGMGFTAIWITPVTAQLPQDCAYGDAYTGYWQTDIYSLNENYGTADDLKALSSALHERGMYLMVDVVANHMGYDGAGSSVDYSVFKPFSSQDYFHPFCFIQNYEDQTQVEDCWLGDNTVSLPDLDTTKDVVKNEWYDWVGSLVSNYSIDGLRIDTVKHVQKDFWPGYNKAAGVYCIGEVLDGDPAYTCPYQNVMDGVLNYPIYYPLLNAFKSTSGSMDDLYNMINTVKSDCPDSTLLGTFVENHDNPRFASYTNDIALAKNVAAFIILNDGLPIIYAGQEQHYAGGNDPANREATWLSGYPTDSELYKLIASANAIRNYAISKDTGFVTYKNPYIKDDTTIAMRKGTDGSQIVTILSNKGASGDSYTLSLSGASYTAGQQLTEVIGCTTVTVGSDGNVPVPMAGGLPRVLYPTEKLAGSKICSDSS",
-        "labels": "__________eeee___________________________________hhhhhh___eeee____________________________________hhhhhhhhhhhh__eeeeee______ee_______________________________________eee__eee________hhhhhhhhhhhhhh______eeee_________hhhhhhhh____eee______hhhh_________ee_hhhhhhhhhh________hhhhhhhhhhhhh______eee________________hhhhhhhhhhhhh___eeeee____________________________hhhhhhhhhhhhhhhhhhh____________ee___eeeeee_____eeeeee________eeee__________eee______eee_______eeee________ee______________"
+        "labels": "__________eeee___________________________________hhhhhh___eeee____________________________________hhhhhhhhhhhh__eeeeee______ee_______________________________________eee__eee________hhhhhhhhhhhhhh______eeee_________hhhhhhhh____eee______hhhh_________ee_hhhhhhhhhh________hhhhhhhhhhhhh______eee________________hhhhhhhhhhhhh___eeeee____________________________hhhhhhhhhhhhhhhhhhh____________ee___eeeeee_____eeeeee________eeee__________eee______eee_______eeee________ee______________",
+        "jpred4": "_________eeeeeee_________________________hhhhhhhhhhhhh____eeee__________________________________hhhhhhhhhhhhh____eeee_________________________________________________________________hhhhhhhhhhhhh_______________hhhhhhhhh__________ee___________________________hhhh______hhhhhhhhhh_____________________________hhhhhhhhhhhhh_____heee__e_______________________hhhhhhhhhhhhhhhhh_______eeeee______eeeeeeee____eeeeeee______eeeee___________eeeeee___eeee____eeeeee____eeeeee______________",
+        "preds": "_____eh_e_ee_eehh__ee____ee_e_hh_hhh____ee_h_hh_hhhh_e____e_h___hh_ee________e_e_h_h_e_h_he__he_hhhhh_hh_e__hh_h__e__hhh____h_____h_e_eh______h__h____ee_h____hehhh______________h_h_e_h___eehe__eee_______eee__eh__h________h__ee_heee_h__________hee___e_______________e___h_hh_hhh_hh____e_h____h________e___ehhhhhhhhhhe_eehe_________heh__________e_hhhe____h__ehehhhh___eeh__hehe_e_hhee________hee_e_______hee__ee_____ee____ee_____e_e__h____he_e__e____h__h______he_h_h__hhh__eh____h"
     },
     {
         "sequence": "GVTVTSHREYLTQVNNSSGFVVNGGIVGNSLQLNPSNGTLFSWLPALASNFDQYSFNSVVLDYVPLCGTTEVGRVALYFDKDSQDPEPADRVELANFGVLKETAPWAEAMLRIPTDKVKRYCNDSATVDQKLIDLGQLGIATYGGAGADAVGELFLARSVTLYFPQPTNTLL",
-        "labels": "___ee__eeeeeeee____eee______________________________eeeeeeeeeeeee___________ee____________hhhh______________eeee_______ee_________________eeeee______eeeeeeeeeeeee__________"
+        "labels": "___ee__eeeeeeee____eee______________________________eeeeeeeeeeeee___________ee____________hhhh______________eeee_______ee_________________eeeee______eeeeeeeeeeeee__________",
+        "jpred4": "_eeeeeeeeeeeeee____eee_______eeeee_______hhhhhhhh_____eeeeeeeeeee________eeeeee___________hhhhh______________eeee_____eeee______________eeeeee_______eeeeeeeeeeeeee_________",
+        "preds": "___eee_eeeeeeee____eee______________________________ee_eeeeeeeee__________eeee____________hhhh______eee_____eeee_______ee_________________eeeee______eeeeeeeeeeee___________"
     },
     {
         "sequence": "KRLDLTGSLADATGPGYLVLTRTPTVLTHTFRATGTFNLSGGLRCLTSLTLGATGAVVINDILAIDNVGTASDYFLNCTVSSLPATVTFTVSGVAAGILLVGRARANVVNLL",
-        "labels": "_________________ee__ee__ee_eee___eeeeeeeeee_____eeeeee__eeeeeeee______eeeeeeeee____eeeeee_____eeeeee___________"
+        "labels": "_________________ee__ee__ee_eee___eeeeeeeeee_____eeeeee__eeeeeeee______eeeeeeeee____eeeeee_____eeeeee___________",
+        "jpred4": "_______________eeeeee____eeeeee____hheeeeeee____________eeeee__________hhhheeeee_____eeeeeee____eeeeeeee________",
+        "preds": "_eeh_e_e_____h_eeeheee__e_e___h_h____e_e_ehhhhhhhhe______eeh_h_e____e____h_ee_hh______heeeeeheeeh_hh__h____hehhh"
     },
     {
         "sequence": "IITHVGGVGGSIMAPVAVSRQLVGSKPKFTGRTSGGVTVTSHREYLTQVNNSSGFVVNGGIVGNSLQLNPSNGTLFSWLPALASNFDQYSFNSVVLDYVPLCGTTEVGRVALYFDKDSQDPEPADRVELANFGVLKETAPWAEAMLRIPTDKVKRYCNDSATVDQKLIDLGQLGIATYGGAGADAVGELFLARSVTLYFPQPTNTLL",
-        "labels": "___________________________eee________eee_eeeeeeee____eee______________________________ee_eeeeeeeee__________eeee____________hhhh______eee_____eeee_______ee_________________eeeee______eeeeeeeeeeee___________"
+        "labels": "___________________________eee________eee_eeeeeeee____eee______________________________ee_eeeeeeeee__________eeee____________hhhh______eee_____eeee_______ee_________________eeeee______eeeeeeeeeeee___________",
+        "jpred4": "__ee_______eee_____eeee_____________eeeeeeeeeeeeee_____________eeeeee_______hhhhhhhh_____eeeeeeeeeee________eeeeee___________hhhhh______________eeee_____eeee______________eeeeeee______eeeeeeeeeeeeee_________",
+        "preds": "hehe__e_________e_h_h_ee_________h__e_ee__eeeeeeee____eee______________________________eeeeeeeeeeeee___________ee____________hhhh______________eeee_______ee_________________eeeee______eeeeeeeeeeeee__________"
     },
     {
         "sequence": "EGDAAAGEKVSKKCLACHTFDQGGANKVGPNLFGVFENTAAHKDNYAYSESYTEMKAKGLTWTEANLAAYVKNPKAFVLEKSGDPKAKSKMTFKLTKDDEIENVIAYLKTLK",
-        "labels": "___hhhhhhh_______________________________________hhhhhhhh______hhhhhhhhh_hhhhhhhhh_______________hhhhhhhhhhh____"
+        "labels": "___hhhhhhh_______________________________________hhhhhhhh______hhhhhhhhh_hhhhhhhhh_______________hhhhhhhhhhh____",
+        "jpred4": "___hhhhhhhhhhhh____________________e___________________________hhhhhhhhh_________________________hhhhhhhhhhhhh__",
+        "preds": "____hh__e_h_eehhheeh___ee______h_he_e_he_h___h__ee_ehhhh___ehh__hhhhhhhh_h__heee____h_eh__hhhhe_he_eee_hhhehhhhh"
     },
     {
         "sequence": "ADTIVAVELDTYPNTDIGDPSYPHIGIDIKSVRSKKTAKWNMQDGKVGTAHIIYNSVDKRLSAVVSYPNADATSVSYDVDLNDVLPEWVRVGLSASTGLYKETNTILSWSFTSKLKSNSTHQTDALHFMFNQFSKDQKDLILQGDATTGTDGNLELTRVSSNGSPEGSSVGRALFYAPVHIWESSAATVSFEATFAFLIKSPDSHPADGIAFFISNIDSSIPSGSTGRLLGLFPDAN",
-        "labels": "___eeeeeee_____________eeeeee_______eee_______eeeeeeeee____eeeeeee______eeeeee_________eeeeeeeee________ee__eeeeeee________eeeeeee_________eeeee__ee_____ee______________eeeeee___ee________eeeeeeeeee___________eeeeee______________________"
+        "labels": "___eeeeeee_____________eeeeee_______eee_______eeeeeeeee____eeeeeee______eeeeee_________eeeeeeeee________ee__eeeeeee________eeeeeee_________eeeee__ee_____ee______________eeeeee___ee________eeeeeeeeee___________eeeeee______________________",
+        "jpred4": "___eeeeee_______________eeee___________________eeeeeee_____eeeeeee_______eeeee__________eeeeee______hhhhhhhhhhhhhh____hhh________________________________ee______________eeeeee_____e______eeeeeeeeeeeee________eeeeeee_____________eeee_____",
+        "preds": "__eehe_ee________h_h____eee___hh__h_hh_h_____h____ehhehh_h_h__hh________eehe__________heh_e________eh_h___he_ee____h_____hh_ee_h____hhh_h__he_ee_______eeheeh________hh_ehhhhe_e__heeehhe______ehhhhhhh____h___he_eehh__h________e_hheeh_____"
     },
     {
         "sequence": "ATYKVTLINEAEGINETIDCDDDTYILDAAEEAGLDLPYSCRAGACSTCAGTITSGTIDQSDQSFLDDDQIEAGYVLTCVAYPTSDCTIKTHQEEGLY",
-        "labels": "__eeeeee______eeeeee_____hhhhhhh______________________________________________________eee_________"
+        "labels": "__eeeeee______eeeeee_____hhhhhhh______________________________________________________eee_________",
+        "jpred4": "__eeeeeeeee___eeeeee____hhhhhhhh____________eeeeeeeeeee____________________eeeeeeee___eeeeee______",
+        "preds": "_he_e___hh_h__h_h_______hhh__ehh_h________hh______e___e_h___e___h____hh_h___heh________hh__eh_____"
     },
     {
         "sequence": "VLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR",
-        "labels": "___hhhhhhhhhhhhhh___hhhhhhhhhhhhhhh_________________hhhhhhhhhhhhhhhhhhh____hhhh_hhhhhhhhh______hhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhh_____"
+        "labels": "___hhhhhhhhhhhhhh___hhhhhhhhhhhhhhh_________________hhhhhhhhhhhhhhhhhhh____hhhh_hhhhhhhhh______hhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhh_____",
+        "jpred4": "___hhhhhhhhhhhhhhhh_hhhhhhhhhhhhhhhhh_hhh___________hhhhhhhhhhhhhhhhhhh____hhhhhhhhhhhhhh_________hhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhh___",
+        "preds": "___hhhhhhhhhhhh_____hhhhhhhhhhhhhh__________________hhhhhhhhhhhhhhhhhhh____hhhh_hhhhhhhhh________hhhhhhhhhhhhh________hh_hhhhhhhhhhhhhhh_____"
     },
     {
         "sequence": "VHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH",
-        "labels": "____hhhhhhhhhhh____hhhhhhhhhhhhhhh________________hhhhhh_hhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhhh____"
+        "labels": "____hhhhhhhhhhh____hhhhhhhhhhhhhhh________________hhhhhh_hhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhhhhh____",
+        "jpred4": "____hhhhhhhhhhhh____hhhhhhhhhhhhhh___hhh_________________hhhhhhhhhhhhhhhhhhhhh__hhhhhhhhhhhh__________hhhhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhh___",
+        "preds": "___hhhhh_eehe__e____e__hhhhhhhhhhh_____he__h_____________hhhhhhhehh______h__h____h_hh_hhhhhhhh______hhhhhhhh_hhhhehhhh_______ehhehhhhhhhhhhhh_____"
     },
     {
         "sequence": "IDVLLGADDGSLAFVPSEFSISPGEKIVFKNNAGFPHNIVFDEDSIPSGVDASKISMSEEDLLNAKGETFEVALSNKGEYSFYCSPHQGAGMVGKVTVN",
-        "labels": "_eeee________ee__eeee____eeeeee________ee__________hhhh_____________eeeee____eeeeee_________eeeeee_"
+        "labels": "_eeee________ee__eeee____eeeeee________ee__________hhhh_____________eeeee____eeeeee_________eeeeee_",
+        "jpred4": "_eeeeee____eeee___eeee___eeeeee_____eeeee___________________________eeeeee____eeeeeee_______eeeeee_",
+        "preds": "hh_e_e______h____e__________hh_____h__h_hh___________he_eehhhhh___heheeh_ee___ee___________h_h__e__"
     },
     {
         "sequence": "SLSSKLSVQDLDLKDKRVFIRVDFNVPLDGKKITSNQRIVAALPTIKYVLEHHPRYVVLASHLGRPNGERNEKYSLAPVAKELQSLLGKDVTFLNDCVGPEVEAAVKASAPGSVILLENLRYHIEEEGSRKVDGQKVKASKEDVQKFRHELSSLADVYINDAFGTAHRAHSSMVGFDLPQRAAGFLLEKELKYFGKALENPTRPFLAILGGAKVADKIQLIDNLLDKVDSIIIGGGMAFTFKKVLENTEIGDSIFDKAVGPEIAKLMEKAKAKGVEVVLPVDFIIADAFSASANTKTVTDKEGIPAGWQGLDNGPESRKLFAATVAKATVILWNGPPGVFEFEKFAAGTKALLDEVVKSSAAGNTVIIGGGDTATVAKKYGVTDKISHVSTGGGASLELLEGKELPGVAFLSEKK",
-        "labels": "_________________eeee_______________hhhhhhhhhhhhhhhh_____eee________________hhhhhhhhhhh___ee_______hhhhhhhhh____eeee_________________________hhhhhhhhhhh____eeee____________________eee_hhhhhhhhhhhhh________eeee_______hhhhhhhhh_____eeee__hhhhhhh__hhhhhh_______hhhhhhhhhhhhhhh__ee____eeee_________eeee________________hhhhhhhhhhh_____eee______________hhhhhhhhhhhh______eee___hhhhhhhhh______ee____hhhhhhhhh____hhhhh_____"
+        "labels": "_________________eeee_______________hhhhhhhhhhhhhhhh_____eee________________hhhhhhhhhhh___ee_______hhhhhhhhh____eeee_________________________hhhhhhhhhhh____eeee____________________eee_hhhhhhhhhhhhh________eeee_______hhhhhhhhh_____eeee__hhhhhhh__hhhhhh_______hhhhhhhhhhhhhhh__ee____eeee_________eeee________________hhhhhhhhhhh_____eee______________hhhhhhhhhhhh______eee___hhhhhhhhh______ee____hhhhhhhhh____hhhhh_____",
+        "jpred4": "________________eeeeeee______________hhhhhhhhhhhhhh____eeeee_______________hhhhhhhhhhhh____ee______hhhhhhhhh_____eeeee______________________hh_hhhhhhhhh____eeeee____________ee_________hhhhhhhhhhhhhhh____eeeeeee______hhhhhhhhhhhh__eee__hhhhhhhhhhh____________hhhhhhhhhhhhhh____eeeeeeeeee________eeeee_______________hhhhhhhhhhhh___eeee___________hhhhhhhhhhhhhhh____eeeeee__hhhhhhhhh_______eee__hhhhhhhhh_____hhhhh____",
+        "preds": "__hheeee_h__h_eee__eeh_hh____hee__h_ehhh____e_hhee_e___h_ehhhe_e________he___ehhhhhhh___e__e__h____ehehehhhhh_____eehh_eh_hh_eh__e______h_e_hh_h_hhh_h___ee_hheh___e__hehhe__e__e______ehe_h_ehh__________h____e__hh_h___hee___h_h_e__e__h__hehhhhhh_h___________e____e_hhh_hh_____e_______eheh__e_h____h__h______hh__________h__hhhh__heeee________h_h_h__eh___ehh___e_ee___e______e_h_____h_e_hh_e__e___eheeh______heh__he_hh"
     },
     {
         "sequence": "PKLVLVRHGQSEWNEKNLFTGWVDVKLSAKGQQEAARAGELLKEKGVNVLVDYTSKLSRAIQTANIALEKADRLWIPVNRSWRLNERHYGDLQGKDKAQTLKKFGEEKFNTYRRSFDVPPPPIDASSPFSQKGDERYKYVDPNVLPETESLALVIDRLLPYWQDVIAKLVGKTSMIAAHGNSLRGLVKHLEGISDADIAKLNIPPGTILVFELDENLKPSKPSYYLDPEA",
-        "labels": "___ee________hhhh___________hhhhhhhhhhhhhhhhh_____eeeee__hhhhhhhhhhhhhh_______eee_________________hhhhh___hhhhh__________________________________________hhhhhhhhhhh_hhhh____eee_____hhhhhhhhh__________________ee____________________"
+        "labels": "___ee________hhhh___________hhhhhhhhhhhhhhhhh_____eeeee__hhhhhhhhhhhhhh_______eee_________________hhhhh___hhhhh__________________________________________hhhhhhhhhhh_hhhh____eee_____hhhhhhhhh__________________ee____________________",
+        "jpred4": "__eeeee__________eee________hhhhhhhhhhhhhhh_______eeee____hhhhhhhhhhhhh_______ee________________hhhhhhhhhhhhhh_________________hhhhhhhhhh_____________hhhhhhhhhhhhhhhhhh_____eeee___hhhhhhhhhhh_______________eeeeeee_____eeeeee______",
+        "preds": "__eee_e__h___h_h_eeee_e__eh_____eh___ehh_h___he_eeh_hhheee_hhe_he_hhh_hhe_______________h_______hh_eh__h________ehh_______e_e_____h_____hhh______hhh_____eh_e______h_hhheh_e__eeh_hhe____h_h___h___h__e_____h_he_hh_e____e_____e_e___h"
     },
     {
         "sequence": "IIGGVESIPHSRPYMAHLDIVTEKGLRVICGGFLISRQFVLTAAHCKGREITVILGAHDVRKAESTQQKIKVEKQIIHESYNSAPNLHDIMLLKLEKKVELTPAVNVVPLPSPSDFIHPGAMCWAAGWGKTGVRDPTSYTLREVELRIMDEKACVDYGYYEYKFQVCVGSPTTLRAAFMGDSGGPLLCAGVAHGIVSYGHPDAKPPAIFTRVSTYVPWINAVVN",
-        "labels": "____ee________eeeeeee_____eeeeeeee____eeee_______eeeeee____________eeeeeeeeee_____________eeeee__________________________eeeeee__eee__eee____eeeeeeee_______________eeee________________eeee__eeeeeeee________eeeeehhhhhhhhhhhh_"
+        "labels": "____ee________eeeeeee_____eeeeeeee____eeee_______eeeeee____________eeeeeeeeee_____________eeeee__________________________eeeeee__eee__eee____eeeeeeee_______________eeee________________eeee__eeeeeeee________eeeeehhhhhhhhhhhh_",
+        "jpred4": "_____________eeeeeeeee____eeeeeeeee____eeee__________eeeeee________eeeeeeeeee____________hhhhh__________eeee_____________eeeeeeee__________eeeeeeeee__________________e__________________eeeeeeeeeeeeee________eeee_____hhhhhh__",
+        "preds": "_e____________e__h_he___e_eeeh_hehee_ehehh________eeeee__e_he__h_hhh_e_ehh__he__________e__eehh_ee____e_h______e_________h_ehh____________eeh_ee_eee_h_he_ee___ehhheh_he_e___hh_he_e_____ee_h__e_eee_e__h_____ee_eh__eeeh__hh_e_"
     },
     {
         "sequence": "ISGGDAIYSSTGRCSLGFNVRSGSTYYFLTAGHCTDGATTWWANSARTTVLGTTSGSSFPNNDYGIVRYTNTTIPKDGTVGGQDITSAANATVGMAVTRRGSTTGTHSGSVTALNATVNYGGGDVVYGMIRTNVCAEPGDSGGPLYSGTRAIGLTSGGSGNCSSGGTTFFQPVTEALVAYGVSVY",
-        "labels": "_____eee____eee__eeeee__eeeeee_hhhh____eee_______eeeeeeeee_____eeeeee_________ee__ee__ee_______eeeeee___eeeeeeeeeeeeeee_____eeeeeeee___________eeee__eeeeeeeeeeee___eeeeeeeehhhhhhhh__ee_"
+        "labels": "_____eee____eee__eeeee__eeeeee_hhhh____eee_______eeeeeeeee_____eeeeee_________ee__ee__ee_______eeeeee___eeeeeeeeeeeeeee_____eeeeeeee___________eeee__eeeeeeeeeeee___eeeeeeeehhhhhhhh__ee_",
+        "jpred4": "_____eee____eeeeeeeeee___eeeeee_ee_____eeeeee____eeeeeeee______eeeeee____________________________ee_______eeeeeee__eeee_____eeeeeee_____________eee__eeeeeeee_________eeeeeehhhhhhhh_____",
+        "preds": "___e_ehe__eee__e_eehe___e_eehh____e______hh_hh__eeeh_h____________e__h_________________eh__hh___eee_e_eeee_e_h_h_eeehee__e_e_e_heeeh_e________e________e__eeee__e___eee_ee_ehe_hheh__eee_"
     },
     {
         "sequence": "DCSEYPKPACTLEYRPLCGSDNKTYGNKCNFCNAVVESNGTLTLSHFGKC",
-        "labels": "_________ee_____eee____ee__hhhhhhhhhh______eeee___"
+        "labels": "_________ee_____eee____ee__hhhhhhhhhh______eeee___",
+        "jpred4": "___________________________hhhhhhhhhh____eeeee____",
+        "preds": "___________ee________e_ee__e__hh__ee_h_eeehe_e___e"
     },
     {
         "sequence": "ITGTSTVGVGRGVLGDQKNINTTYSTYYYLQDNTRGDGIFTYDAKYRTTLPGSLWADADNQFFASYDAPAVDAHYYAGVTYDYYKNVHNRLSYDGNNAAIRSSVHYSQGYNNAFWNGSEMVYGDGDGQTFIPLSGGIDVVAHELTHAVTDYTAGLIYQNESGAINEAISDIFGTLVEFYANKNPDWEIGEDVYTPGISGDSLRSMSDPAKYGDPDHYSKRYTGTQDNGGVHINSGIINKAAYLISQGGTHYGVSVVGIGRDKLGKIFYRALTQYLTPTSNFSQLRAAAVQSATDLYGSTSQEVASVKQAFDAVGVK",
-        "labels": "___eeeeeeee_____eeeeeeee___ee_ee______eeeee_________ee_ee___ee_____hhhhhhhhhhhhhhhhhhhhh___________eeeee________eee____eee______________hhhhhhhhhhhhhhh_______hhhhhhhhhhhhhhhhhhhhhh______ee______________ee____________________hhhhh____hhhhhhhhhhhhh_eee__eee____hhhhhhhhhhhhhh_______hhhhhhhhhhhhhhhh____hhhhhhhhhhhh____"
+        "labels": "___eeeeeeee_____eeeeeeee___ee_ee______eeeee_________ee_ee___ee_____hhhhhhhhhhhhhhhhhhhhh___________eeeee________eee____eee______________hhhhhhhhhhhhhhh_______hhhhhhhhhhhhhhhhhhhhhh______ee______________ee____________________hhhhh____hhhhhhhhhhhhh_eee__eee____hhhhhhhhhhhhhh_______hhhhhhhhhhhhhhhh____hhhhhhhhhhhh____",
+        "jpred4": "____eeeeeeeee____eeeeeee___eeeee______eeeee__________eee___________hhhhhhhhhhhhhhhhhhhh____________eeee_______________eeeeee______________eeehhhhhhhh________________hhhhhhhhhhhhhh___________ee____________________________________eeeee__hhhhhhhhhhh_____________hhhhhhhhhhhhh________hhhhhhhhhhhhhhh_____hhhhhhhhhhhh____",
+        "preds": "__e__e__e___e___e___h__e_hhe_he____h__eh_h____ee_____h______e_e__h__ehhh__h_e__ee__ee__h____e___hheee__hee___eh_heee___eee_e__e________e_h_ehhhe_ee___h_____eeeh____h_hhee_hhhh_eh_________h___________h__h_e__h_____e_e___e___he_____eeh______hehhe_h___e_e_ee_____he____e______heee____h_hhh_ehh_h__ee__e__hhh__hh_h_hh___"
     },
     {
         "sequence": "EDPEVLFKNKGCVACHAIDTKMVGPAYKDVAAKFAGQAGAEAELAQRIKNGSQGVWGPIPMPPNAVSDDEAQTLAKWVLSQK",
-        "labels": "__hhhhhhh_________________hhhhhhhh_____hhhhhhhhhhh_________________hhhhhhhhhhhh___"
+        "labels": "__hhhhhhh_________________hhhhhhhh_____hhhhhhhhhhh_________________hhhhhhhhhhhh___",
+        "jpred4": "__hhhhhhh_____ee____________hhh________hhhhhhhhhh__________________hhhhhhhhhhhhh__",
+        "preds": "____hhe_____ee__h___e_____hehh__hh______h_hhhhehee___e_h______h__ee____hhhhheee___"
     },
     {
         "sequence": "ASSTNLKDILADLIPKEQARIKTFRQQHGNTVVGQITVDMMYGGMRGMKGLVYETSVLDPDEGIRFRGYSIPECQKMLPKAKGGEEPLPEGLFWLLVTGQIPTEEQVSWLSKEWAKRAALPSHVVTMLDNFPTNLHPMSQLSAAITALNSESNFARAYAEGIHRTKYWELIYEDCMDLIAKLPCVAAKIYRNLYREGSSIGAIDSKLDWSHNFTNMLGYTDAQFTELMRLYLTIHSDHEGGNVSAHTSHLVGSALSDPYLSFAAAMNGLAGPLHGLANQEVLVWLTQLQKEVGKDVSDEKLRDYIWNTLNSGRVVPGYGHAVLRKTDPRYTCQREFALKHLPHDPMFKLVAQLYKIVPNVLLEQGKAKNPWPNVDAHSGVLLQYYGMTEMNYYTVLFGVSRALGVLAQLIWSRALGFPLERPKSMSTDGLIKLVDSK",
-        "labels": "_____hhhhhhhhhhhhhhhhhhhhhhh___eeeeeehhhhh______eeee____eee___eee_____hhhhhhh____________hhhhhhhhh_____hhhhhhhhhhh_______hhhhhhhhh________hhhhhhhhhh_____hhhhhhh______hhhhhhhhhhhhhhhhhhhhhhhhhhhh________________hhhhhhh______hhhhhhhhhhh________hhhhhhhhhhh____hhhhhhhhhhhh_____________hhhhhhhhh__________hhhhhhhhh_________________hhhhhhhhhh_______hhhh____________hhhh______________hhhhhhh_______hhhhhhhhhhhhhhhhhhhhhh_________ee_hhhhhhhh___"
+        "labels": "_____hhhhhhhhhhhhhhhhhhhhhhh___eeeeeehhhhh______eeee____eee___eee_____hhhhhhh____________hhhhhhhhh_____hhhhhhhhhhh_______hhhhhhhhh________hhhhhhhhhh_____hhhhhhh______hhhhhhhhhhhhhhhhhhhhhhhhhhhh________________hhhhhhh______hhhhhhhhhhh________hhhhhhhhhhh____hhhhhhhhhhhh_____________hhhhhhhhh__________hhhhhhhhh_________________hhhhhhhhhh_______hhhh____________hhhh______________hhhhhhh_______hhhhhhhhhhhhhhhhhhhhhh_________ee_hhhhhhhh___",
+        "jpred4": "_____hhhhhh____________________eeeeeeee_________eeeeeeeeee_____eeee___hhhhhhh___________hhhhhhhhhh_____hhhhhhhhhhhhh____hhhhhhhhhh______hhhhhhhhhhhhh___________________hhhhhhhhhhhhhhhhhhhhhhhhhh______________hhhhhhhh_____hhhhhhhhhhhhhhe_______hhhhhhhhh_____hhhhhhhhhhh_________hhhhhhhhhhhhhh_______hhhhhhhhhhh_____eeee__________hhhhhhhhhhhhh______hhhhhhhhhhhhhhhhh__________hhhhhhhhhhh_________hhhhhhhhhhhhhhhhhhhh_______________________",
+        "preds": "_____hhhhhhh__h_hhh_hhhh_h_h_h_ee___eh__hh_e_h_he_heeee________ee_____h___eh_e_____h_h__hh__hhehe_he_____heehh_hh_h_______ehhe_ehe____e_e_hh_h__h_eh____hhe_hehe___h__hhh_h___hehh_eh_hhh_heh___heh___________e_e_eh_hhh___e_ehh_hehh_eehee__h___hhh___e_eh_ee____h_hehh_hh__e__e_ee__hhhee_hhhhh__h__e_h__hhehe_e_h_e__e_e___h_hh_e______ee_eh_ehhhe______hehhhh_eh____ehh_e______hhhhh____h_heh_h____ee____hh__h_eeeh_hhe_e__h_____________h_e_e___"
     },
     {
         "sequence": "MISLIAALAVDRVIGMENAMPWNLPADLAWFKRNTLDKPVIMGRHTWESIGRPLPGRKNIILSSQPGTDDRVTWVKSVDEAIAACGDVPEIMVIGGGRVYEQFLPKAQKLYLTHIDAEVEGDTHFPDYEPDDWESVFSEFHDADAQNSHSYCFKILERR",
-        "labels": "_eeeeeee________________hhhhhhhhhhh___eeeeehhhhhhh_______eeeee__________eee__hhhhhhhh_____eeeee_hhhhhhh_____eeeeeee_________________eeeeeeeee_________eeeeeeee_"
+        "labels": "_eeeeeee________________hhhhhhhhhhh___eeeeehhhhhhh_______eeeee__________eee__hhhhhhhh_____eeeee_hhhhhhh_____eeeeeee_________________eeeeeeeee_________eeeeeeee_",
+        "jpred4": "__eeeeee_____ee_________hhhhhhhhhhh___eeeee______________eeeeee_________eee__hhhhhhhhh___hhhhhhhhhhhhhhhhh__eeeeeee_______e__________eeee____________eeeeeeee__",
+        "preds": "heehhhh_he_hh____e__h_______hhe__hh_h__e_e___e_ee_e____h___ee______e___eheee_heh_h____h___heee__e_ee_h_e___h_hee_h__eh_h________e____h_hee____heeh____eeh_hhee_"
     },
     {
         "sequence": "MKIVYWSGTGNTEKMAELIAKGIIESGKDVNTINVSDVNIDELLNEDILILGCSAMGDEVLEESEFEPFIEEISTKISGKKVALFGSYGWGDGKWMRDFEERMNGYGCVVVETPLIVQNEPDEAEQDCIEFGKKIANI",
-        "labels": "_eeeee____hhhhhhhhhhhhhhh_____eeee_____________eeeeee____________hhhhhhhh_______eeeeeeee_____hhhhhhhhhhhh___ee____eeee______hhhhhhhhhhhh__"
+        "labels": "_eeeee____hhhhhhhhhhhhhhh_____eeee_____________eeeeee____________hhhhhhhh_______eeeeeeee_____hhhhhhhhhhhh___ee____eeee______hhhhhhhhhhhh__",
+        "jpred4": "eeeeee____hhhhhhhhhhhhhhh____eeee______________eeeeeee________hhhhhhhhhhh_______eeeeee______hhhhhhhhhhhhh____ee___eee____hhhhhhhhhhhhhhh__",
+        "preds": "__hee__e__ehhhhh___h_e______ehhh_______hhhh_h_hhe___eh_e_heeeeh______e_eh_ehh____h_he___________h_h_hh___eehe_e____h________hh_e__h__e_hee"
     },
     {
         "sequence": "SSMDVTILSHCELSTELAVTVTIVVTSELVMPFTVGTWLRGVAQNWSKYAWVAIRYTYLPSCPTTTSGAIHMGFQYDMADTLPVSVNQLSNLKGYVTGPVWEGQSGLCFVNNTKCPDTSRAITIALDTNEVSEKRYPFKTATDYATAVGVNANIGNILVPARLVTAMEGGSSKTAVNTGRLYASYTIRLIEPIAAALNL",
-        "labels": "_____eeeeeeeeeeeeee____eeeeee_______hhhhhhh____eeeeeeeeeeeee________eeeeeee__________hhhhh_____eeee_______________________eee__________ee___hhhhhhhh______hhhh___eeeeeee_______eeeeeeeeeeeeee__________"
+        "labels": "_____eeeeeeeeeeeeee____eeeeee_______hhhhhhh____eeeeeeeeeeeee________eeeeeee__________hhhhh_____eeee_______________________eee__________ee___hhhhhhhh______hhhh___eeeeeee_______eeeeeeeeeeeeee__________",
+        "jpred4": "____eeeeeeeeeeeeee_____eeeeeee_______hhhhhh_____eeeeeeeeeeee________eeeeee___________hhhh_______________________________eeeeee____________ee________________eee__eeeeee__________eeeeeeeeeeeee_________",
+        "preds": "_____eeeeeeeeeeeeee_____eeeee__hhhh___hhhhh____eeeeeeeeeeeee________eeeeeee__________hhhh______eeee_______hhhhh___________eee__________ee___hhhhhhhhhh____hhhh___eeeeee________eeeeeeeeeeeeee__________"
     },
     {
         "sequence": "QAGVSMAPIAQGTMVKLRPPMLRSSMDVTILSHCELSTELAVTVTIVVTSELVMPFTVGTWLRGVAQNWSKYAWVAIRYTYLPSCPTTTSGAIHMGFQYDMADTLPVSVNQLSNLKGYVTGPVWEGQSGLCFVNNTKCPDTSRAITIALDTNEVSEKRYPFKTATDYATAVGVNANIGNILVPARLVTAMEGGSSKTAVNTGRLYASYTIRLIEPIAAALNL",
-        "labels": "____________________eeee____eeeeeeeeeeeeee_____eeeee__hhhh___hhhhh____eeeeeeeeeeeee________eeeeeee__________hhhh______eeee_______hhhhh___________eee__________ee___hhhhhhhhhh____hhhh___eeeeee________eeeeeeeeeeeeee__________"
+        "labels": "____________________eeee____eeeeeeeeeeeeee_____eeeee__hhhh___hhhhh____eeeeeeeeeeeee________eeeeeee__________hhhh______eeee_______hhhhh___________eee__________ee___hhhhhhhhhh____hhhh___eeeeee________eeeeeeeeeeeeee__________",
+        "jpred4": "___eeeeeeeeeeeee____________eeeeeeeeeeeee_____eeeeee_________hhhhh______eeeeeeeeeee________eeeeee___________hhhhh______________________________eeeee_________ee____________________eee__eeeeee__________eeeeeeeeeeeee_________",
+        "preds": "_hh_______h_he_______hh_e___eeeeeeeeeeeeee____eeeeee_______hhhhhhh____eeeeeeeeeeeee________eeeeeee__________hhhhh_____eeee_______________________eee__________ee___hhhhhhhh______hhhh___eeeeeee_______eeeeeeeeeeeeee__________"
     },
     {
         "sequence": "ANPLYQKHIISINDLSRDDLNLVLATAAKLKANPQPELLKHKVIASCFFEASTRTRLSFQTSMHRLGASVVGFSDSANTSLGKKGQTLADTISVISTYVDAIVMRHPQEGAARLATEFSGNVPVLNAGDGSNQHPTQTLLDLFTIQQTEGRLDNLHVAMVGDLKYGRTVHSLTQALAKFDGNRFYFIAPDALAMPEYILDMLDEKGIAWSLHSSIEEVMAEVDILYMTRVQKERLDPSEYANVKAQFVLRASDLHNAKANMKVLHPLPRVDEIATDVDKTPHAWYFQQAGNGIFARQALLALVLNRDLVL",
-        "labels": "________________hhhhhhhhhhhhhhhh__________eeeeee____hhhhhhhhhhhhh___eeeeee_____________hhhhhhhhhhh__eeeee_____hhhhhhhh_____eee________hhhhhhhhhhhhhhh______eeeee______hhhhhhhhhh______eeeee________hhhhhhhhh___eeee___hhhh_____eeee_________hhhhhhh_______hhhh_______eee____________________hhhhhh_hhhhhhhhhhhhh______"
+        "labels": "________________hhhhhhhhhhhhhhhh__________eeeeee____hhhhhhhhhhhhh___eeeeee_____________hhhhhhhhhhh__eeeee_____hhhhhhhh_____eee________hhhhhhhhhhhhhhh______eeeee______hhhhhhhhhh______eeeee________hhhhhhhhh___eeee___hhhh_____eeee_________hhhhhhh_______hhhh_______eee____________________hhhhhh_hhhhhhhhhhhhh______",
+        "jpred4": "________________hhhhhhhhhhhhhhhh__________eeeeee______hhhhhhhhhhhh___eeee______eh______hhhhhhhhhh___eeeee_____hhhhhhhh______ee________hhhhhhhhhhhhhh_______eeeeee_____hhhhhhhhhhhhh___eeee_________hhhhhhhhh____eeee___hhhh____eeeeeee_______hhhhh______hhhhhhhh_____eee_______e__________eehhhhhh__hhhhhhhhhhhh______",
+        "preds": "______hheee____eh__e_he_ehheh_ee___hhhhhee_eh_e__eh_ee_ehehehhhhhh__eee___e_ee_____e__h_h___eeee_h__he_______hehhehehh__h_eh______e____eehee_eh________hh_hhh_ehee____eeeeehhehhhh______e_h___e_____hhh__h_hh__he_eh__heeeh_ehhhhh_h_h_e_______hhhhh__eeeehe_hh___h_hh_______ehhhhe_________e_h_______h_hheeee_he___he"
     },
     {
         "sequence": "MTHDNKLQVEAIKRGTVIDHIPAQIGFKLLSLFKLTETDQRITIGLNLPSGEMGRKDLIKIENTFLSEDQVDQLALYAPQATVNRIDNYEVVGKSRPSLPERIDNVLVCPNSNCISHAEPVSSSFAVRKRANDIALKCKYCEKEFSHNVVLAN",
-        "labels": "________________ee______hhhhhhhh__________eee________________________hhhh___________ee____eee________________________________eeee____eeee______eeehhhhhh_"
+        "labels": "________________ee______hhhhhhhh__________eee________________________hhhh___________ee____eee________________________________eeee____eeee______eeehhhhhh_",
+        "jpred4": "_____eeeee_____eeee______hhhhhhh________eeeeeee________eeeee_______hhh_heeeee____eeeeee__eeeeee_____eeeeeeee______________eeeeeeee___eeeeeee___eeeeeee___",
+        "preds": "heee_e_hh_hheh__he_h___he_eh_ee_h_e__h_h__h__e______hh___ehe_h__h____hh_ehe_h_e_e_h_e____eh__________h__h________e__e____e_heeehe_h_hehh_ehee_hh__h__eh_h"
     },
     {
         "sequence": "ARSTNTFNYATYHTLDEIYDFMDLLVAQHPELVSKLQIGRSYEGRPIYVLKFSTGGSNRPAIWIDLGIHSREWITQATGVWFAKKFTENYGQNPSFTAILDSMDIFLEIVTNPNGFAFTHSENRLWRKTRSVTSSSLCVGVDANRNWDAGFGKAGASSSPCSETYHGKYANSEVEVKSIVDFVKNHGNFKAFLSIHSYSQLLLYPYGYTTQSIPDKTELNQVAKSAVAALKSLYGTSYKYGSIITTIYQASGGSIDWSYNQGIKYSFTFELRDTGRYGFLLPASQIIPTAQETWLGVLTIMEHTVNN",
-        "labels": "______________hhhhhhhhhhhhhh____eeeeeeee_____eeeeeee________eeeeee______hhhhhhhhhhhhhhhhh____hhhhhhh___eeeee____hhhhhhhhh____________________________________________________hhhhhhhhhhhhh__eeeeeeeee___eeee___________hhhhhhhhhhhhhhhh_______eeeehhhh_______hhhhhhh____eeeeeee______________hhhhhhhhhhhhhhhhhhhhh_"
+        "labels": "______________hhhhhhhhhhhhhh____eeeeeeee_____eeeeeee________eeeeee______hhhhhhhhhhhhhhhhh____hhhhhhh___eeeee____hhhhhhhhh____________________________________________________hhhhhhhhhhhhh__eeeeeeeee___eeee___________hhhhhhhhhhhhhhhh_______eeeehhhh_______hhhhhhh____eeeeeee______________hhhhhhhhhhhhhhhhhhhhh_",
+        "jpred4": "______________hhhhhhhhhhhhhh____eeeee_________eeeee________eeeeee_________hhhhhhhhhhhhhhh____hhhhhh____eeeeeee_____eeeee____________________________________________________hhhhhhhhhhhh_____eeeee______________________hhhhhhhhhhhhhhh_________________________hhhh____eeeeeee______________hhhhhhhhhhhhhhhhhhhh__",
+        "preds": "e________heh_e_hh_hhe__heh_h___hh_ee_e___he____hee__e_______e_h__h____h_he__h__h_hh_h__e___h__ee_hh__h_hh_eehhe___e___he_hhe__e_eh_ee___heee______h___hhh_________h_e_______eee___ee__hh__ee_h_hh_hee__eh_________ee___hh__h_hh_ehe_eh_h_h_ehhe_e_eeehehh____eee__e_h___e__heh________h_e__h______ehee__h_eee______"
     },
     {
         "sequence": "ATLKEKLIAPVAQQETTIPDNKITVVGVGQVGMACAISILGKSLTDELALVDVLEDKLKGEMMDLQHGSLFLQTPKIVANKDYSVTANSKIVVVTAGVRQQEGESRLNLVQRNVNVFKFIIPQIVKYSPNCIIIVVSNPVDILTYVAWKLSGLPKHRVIGSGCNLDSARFRYLMGEKLGVHPSSCHGWILGEHGDSSVAVWSGVNVAGVVLQQLNPEMGTDNDSENWKEVHKMVVESAYEVIKLKGYTNWAIGLSVADLIESMLKNLSRIHPVSTMVQGMYGIENEVFLSLPCVLNARGLTSVINQKLKDDEVAQLKNSADTLWGIQKDLKDL",
-        "labels": "______________________eee____hhhhhhhhhhhhh_____eee_____hhhhhhhhhhhhh________ee____________eeee________________hhhhhhhh__hhhhhhh____eeee____hhhhhhhhhhhh__hhhhee____hhhhhhhhhhhhhhh__________ee_______ee___________________________hhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhh___________________________eeee__eeeee________hhhhhhhhhhhhhhhhhhh___"
+        "labels": "______________________eee____hhhhhhhhhhhhh_____eee_____hhhhhhhhhhhhh________ee____________eeee________________hhhhhhhh__hhhhhhh____eeee____hhhhhhhhhhhh__hhhhee____hhhhhhhhhhhhhhh__________ee_______ee___________________________hhhhhhhhhhhhh______hhhhhhhhhhhhhhhhhhhh___________________________eeee__eeeee________hhhhhhhhhhhhhhhhhhh___",
+        "jpred4": "__hhhhhhhh___________eeeeee___hhhhhhhhhhh_____eeeee______hhhhhhhhh__________ee___________eeeeeee_________hhhhhhhhhhhhhhhhhhhhh____eeeeee____hhhhhhhhhh_______eeeeeehhhhhhhhhhhhhhh________eeee______eeee_________________________hhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhhhh_____eeeeeeee_________eeeeeeeee____eeeee_____hhhhhhhhhhhhhhhhhhhhhh__",
+        "preds": "_hehhh_e__e___h______hheee_e__hheh_e_hhehh_eee_hhee_e_h_h_hhhhhhhhhh__e______he__h__ehe___e_ee_h__________e__e______heh____eeee____eeeee____he__hhhheehh___hhee____hhe_heh_hh_hh_e_______e__e____e_h_heh__heh__hhh____eeh_e_____h_hhhhhhhhhhh__________e_heehhehhheh__h_h_hh_______eh__ee_e___eeee___h_ehh__hh_he__e_hh_hh__hhehh_hhhhhe__h__"
     },
     {
         "sequence": "RPDFCLEPPYTGPCKARIIRYFYNAKAGLCQTFVYGGCRAKRNNFKSAEDCMRTCGGA",
-        "labels": "_________________eeeeeee____eeeeeee____________hhhhhhhh___"
+        "labels": "_________________eeeeeee____eeeeeee____________hhhhhhhh___",
+        "jpred4": "_________________eeeeee_____eeeeeeee_________hhhhhhhhhh___",
+        "preds": "___e_____________eeeee________eeeee____________hhhhhhh____"
     },
     {
         "sequence": "MKKYTCTVCGYIYDPEDGDPDDGVNPGTDFKDIPDDWVCPLCGVGKDEFEEVEE",
-        "labels": "___eee_____ee___________________________________eee___"
+        "labels": "___eee_____ee___________________________________eee___",
+        "jpred4": "___eee____eee_________________________________________",
+        "preds": "h___eeeeh_____________________h_____e___e_hh__h_eh_hh_"
     },
     {
         "sequence": "STAGKVIKCKAAVLWEEKKPFSIEEVEVAPPKAHEVRIKMVATGICRSDDHVVSGTLVTPLPVIAGHEAAGIVESIGEGVTTVRPGDKVIPLFTPQCGKCRVCKHPEGNFCLKNDLSMPRGTMQDGTSRFTCRGKPIHHFLGTSTFSQYTVVDEISVAKIDAASPLEKVCLIGCGFSTGYGSAVKVAKVTQGSTCAVFGLGGVGLSVIMGCKAAGAARIIGVDINKDKFAKAKEVGATECVNPQDYKKPIQEVLTEMSNGGVDFSFEVIGRLDTMVTALSCCQEAYGVSVIVGVPPDSQNLSMNPMLLLSGRTWKGAIFGGFKSKDSVPKLVADFMAKKFALDPLITHVLPFEKINEGFDLLRSGESIRTILTF",
-        "labels": "______eeeeeee________eeeeeee_______eeeeeeee_______hhhh________ee____eeeeeeee___________eeee______________________________________________ee_________eeee____eee________________hhhhhhhhh_________eeeee____hhhh_hhhh______eeeee______hhhhh_____eee________hhhhhhhh______eeee______hhhhhhh_______eeee_________eee_hhhhh____eee_______hhhh___________________________hhhhhhhh____________"
+        "labels": "______eeeeeee________eeeeeee_______eeeeeeee_______hhhh________ee____eeeeeeee___________eeee______________________________________________ee_________eeee____eee________________hhhhhhhhh_________eeeee____hhhh_hhhh______eeeee______hhhhh_____eee________hhhhhhhh______eeee______hhhhhhh_______eeee_________eee_hhhhh____eee_______hhhh___________________________hhhhhhhh____________",
+        "jpred4": "______hheeeeeee_____eeeeee_________eeeeeeeee______eeee_______________eeeeeee_______eeeeeeeee______________________________________________________eeeeee_____________hhhhhhh_______eeeeeee_______eeeeee__hhhhhhhhhhhhh___eeeeee__hhhhhhhhhh___eee_______hhhhhhhhh_____eeeeee____hhhhhhhhhh____eeeeeee___________hhhhhhhheeeeeee_______hhhhhhhhhhh__________ee____hhhhhhhhhh____eeeee__",
+        "preds": "_h____hhhehe_hhhe_____he_e____h_ehhe_ehh__e___h_____h__ee____ee_e__e___heh_h__h_eee__e____he_________hhh__he_heeh________hh__e____e_ee_hhhhhe____ehhhhe__hhh__ehee__e__e__ehe__e__e__heee__ee__h_eeeee_e__eee_eeeehe_____ee_____h__hhh_ehhh_e_______e_____h___e__e____e__ehee_e___h_e____hee__e_e_ehhe____h__h_____heheh_eh_e_e__he__h____hhh__hh_h______heh_____heeeh________e__eeeh_"
     },
     {
         "sequence": "NRDPASDQMKHWKEQRAAQKPDVLTTGGGNPVGDKLNSLTVGPRGPLLVQDVVFTDEMAHFDRERIPERVVHAKGAGAFGYFEVTHDITRYSKAKVFEHIGKRTPIAVRFSTVAGESGSADTVRDPRGFAVKFYTEDGNWDLVGNNTPIFFIRDALLFPSFIHSQKRNPQTHLKDPDMVWDFWSLRPESLHQVSFLFSDRGIPDGHRHMDGYGSHTFKLVNADGEAVYCKFHYKTDQGIKNLSVEDAARLAHEDPDYGLRDLFNAIATGNYPSWTLYIQVMTFSEAEIFPFNPFDLTKVWPHGDYPLIPVGKLVLNRNPVNYFAEVEQLAFDPSNMPPGIEPSPDKMLQGRLFAYPDTHRHRLGPNYLQIPVNCPYRARVANYQRDGPMCMMDNQGGAPNYYPNSFSAPEHQPSALEHRTHFSGDVQRFNSANDDNVTQVRTFYLKVLNEEQRKRLCENIAGHLKDAQLFIQKKAVKNFSDVHPEYGSRIQALLDKYN",
-        "labels": "_______hhhhhhh_________________________ee____________hhhhhhhh_____________eeeeeeeeee__________________eeeeeeeee________________eeeeeeee__eeeeeeee____________hhhhhh____________hhhhhhhhh_____hhhhhhh______________ee____eeee_____eeeeeeeeee________hhhhhhhhhh___hhhhhhhhhhhh____eeeeeeeee_hhhhhh___________________eeeeeeeeee____hhhh______________eee___hhhhhhhhhhhhhhhhh_______________________________________________________________ee__________hhhhhhhhh____hhhhhhhhhhhhhh____hhhhhhhhhhhhhh_hhhhhhhhhhhhhh_"
+        "labels": "_______hhhhhhh_________________________ee____________hhhhhhhh_____________eeeeeeeeee__________________eeeeeeeee________________eeeeeeee__eeeeeeee____________hhhhhh____________hhhhhhhhh_____hhhhhhh______________ee____eeee_____eeeeeeeeee________hhhhhhhhhh___hhhhhhhhhhhh____eeeeeeeee_hhhhhh___________________eeeeeeeeee____hhhh______________eee___hhhhhhhhhhhhhhhhh_______________________________________________________________ee__________hhhhhhhhh____hhhhhhhhhhhhhh____hhhhhhhhhhhhhh_hhhhhhhhhhhhhh_",
+        "jpred4": "____hhhhhhhh___________e______________eee______eee__hhhhhhh________eeee___eeeeeeeeee__________________eeeeeee___________________eeeeee_____eeeee__________hhhhhhhhhhhh__________hhhhhhhh____hhhhhhhh____________________eeee_____eeeeeeeeee________hhhhhh_______hhhhhhhhhhh______eeeeeee________________________eeeee_eeeee______________ee___________________hhhhhhhhhhhhh____________________________________________________________eeeee________hhhhhhhhhh___hhhhhhhhhhhhhh_____hhhhhhhhhhhhh__hhhhhhhhhhhh___",
+        "preds": "___e____hheehh_h______e_e___e________e________e_he_eh_h__hhh________heee___e__e__h_ee___ehheeeeeh_ee_e___e_eeh__hhe_e__h_h_e___heeeheeh___h___________e_hh___e___h________e_____hh___h___h__hhhhe_e_h_________ee_______ee__he____hheeh_h__e_______h_h_h_hhhh__h___e_h_hhhhh_e____e_h_e_ee_e__e_____h__hhe_____h____ehe__ehe_e__he__e___heheh___e__________hhe__hh______hh_h_hhee___h____h___h_eh_____h____e___e_____________h___hh__hh___hhe_hee_e_he__he_hhhheh____h___eh_e__h___ehhhe___heh_he_____hh__eheh_____"
     },
     {
         "sequence": "ENLKLGFLVKQPEEPWFQTEWKFADKAGKDLGFEVIKIAVPDGEKTLNAIDSLAASGAKGFVICTPDPKLGSAIVAKARGYDMKVIAVDDQFVNAKGKPMDTVPLVMMAATKIGERQGQELYKEMQKRGWDVKESAVMAITANELDTARRRTTGSMDALKAAGFPEKQIYQVPTKSNDIPGAFDAANSMLVQHPEVKHWLIVGMNDSTVLGGVRATEGQGFKAADIIGIGINGVDAVSELSKAQATGFYGSLLPSPDVHGYKSSEMLYNWVAKDVEPPKFTEVTDVVLITRDNFKEELEKKGLGGK",
-        "labels": "______eee_______hhhhhhhhhhhhhh______eee___hhhhhhhhhhhhh_________________hhhhhhhhh_____________________________hhhhhhhhhhhhhhhhhh________eee_________hhhhhhhhhhhhhh_______ee________hhhhhhhhhhhhh_______eee_______hhhhhhhh____________ee_____hhhh__________ee_______hhhhhhhhhhhhh__________________________________"
+        "labels": "______eee_______hhhhhhhhhhhhhh______eee___hhhhhhhhhhhhh_________________hhhhhhhhh_____________________________hhhhhhhhhhhhhhhhhh________eee_________hhhhhhhhhhhhhh_______ee________hhhhhhhhhhhhh_______eee_______hhhhhhhh____________ee_____hhhh__________ee_______hhhhhhhhhhhhh__________________________________",
+        "jpred4": "___eeeeeee_____hhhhhhhhhhhhhhh___eeeee____hhhhhhhhhhhhh____eeeee_______hhhhhhhhh_________________________e_____hhhhhhhhhhhhhhhhh_____eeeee_________hhhhhhhhhhhhhhh_______eee_______hhhhhhhhhhhhh_______eee____hhhhhhhhhhhhh______eeeeee___hhhhhhhh______eeeee__hhhhhhhhhhhhhhhhh________eeee__eeee___hhhhhhh______",
+        "preds": "h_h___eh_________h_ehhh_hhh__hh_e__h__h_e___hhh_____ehhh_________h__e__h__hh_eh____eeee_hh_e_______heh__eh_hhh_hh__hhhhehhhh_h____hhhheeheh_hhhh__hh_e_hh___h_hhhe____e_hehe_e_____hh_______hh_______ehhe_eh___ehe____e__h_h_eeh_hh_e__h____he_heh_hhheh__h______eh_____hhe__he_________eeee__eh_e____hhhh__h_____"
     },
     {
         "sequence": "APAFSVSPASGASDGQSVSVSVAAAGETYYIAQCAPVGGQDACNPATATSFTTDASGAASFSFTVRKSYAGQTPSGTPVGSVDCATDACNLGAGNSGLNLGHVALTFG",
-        "labels": "__eeeee_________eeeeeee____eeeeeee_ee__ee________eee_______eeeee___eeeee_____eeeeee______eeeee______________"
+        "labels": "__eeeee_________eeeeeee____eeeeeee_ee__ee________eee_______eeeee___eeeee_____eeeeee______eeeee______________",
+        "jpred4": "__eeeee_________eeeeeeee___eeeeee_______________eeeee_____eeeeeeeeeeeeeee______eeee____eeeeeee________eeee__",
+        "preds": "____e______e____e_eh__h__h_eehee___eee_e_______hhe_h_h__ee__e__e_h__h__h________eh_____h_____h________he_hh_"
     },
     {
         "sequence": "GFPIPDPYCWDISFRTFYTIVDDEHKTLFNGILLLSQADNADHLNELRRCTGKHFLNEQQLMQASQYAGYAEHKKAHDDFIHKLDTWDGDVTYAKNWLVNHIKTIDFKYRGKI",
-        "labels": "__________________hhhhhhhhhhhhhhhhhhh___hhhhhhhhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhh_________"
+        "labels": "__________________hhhhhhhhhhhhhhhhhhh___hhhhhhhhhhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhhhh_____hhhhhhhhhhhhhh_________",
+        "jpred4": "__________________hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh____hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh__",
+        "preds": "__e______h____e__ehe______hh_e__heh__hhh__h__hh_ehh__h___h_hhh_e_h_______eh__h_hh_ee_e_eeehee_h__eh__h_hehhe__e__"
     },
     {
         "sequence": "RDFTPPTVKILQSSCDGGGHFPPTIQLLCLVSGYTPGTINITWLEDGQVMDVDLSTASTTQEGELASTQSELTLSQKHWLSDRTYTCQVTYQGHTFEDSTKKCADSNPRGVSAYLSRPSPFDLFIRKSPTITCLVVDLAPSKGTVNLTWSRASGKPVNHSTRKEEKQRNGTLTVTSTLPVGTRDWIEGETYQCRVTHPHLPRALMRSTTKTSGPRAAPEVYAFATPEWPGSRDKRTLACLIQNFMPEDISVQWLHNEVQLPDARHSTTQPRKTKGSGFFVFSRLEVTRAEWEQKDEFICRAVHEAASPSQTVQRAVSVNPGK",
-        "labels": "______eeeee____________eeeeeeeeeee_____eeeee________eee___ee_____eeeeeeeeeehhhhh_____eeeee________eee__________eeeee_____________eeeeeee____________eee_____________eeee__eeeeeeeee__hhhhhh___eeeee________eeeee__________eeeee__________eeeeeeeee_______eeeee________________ee_____ee_eeeeeeehhhhh_____eeeee_________eeee_______"
+        "labels": "______eeeee____________eeeeeeeeeee_____eeeee________eee___ee_____eeeeeeeeeehhhhh_____eeeee________eee__________eeeee_____________eeeeeee____________eee_____________eeee__eeeeeeeee__hhhhhh___eeeee________eeeee__________eeeee__________eeeeeeeee_______eeeee________________ee_____ee_eeeeeeehhhhh_____eeeee_________eeee_______",
+        "jpred4": "_______eeee______ee_____eeeeeeee______eeeeeee_______________________eeeeeee________eeeeee___________________________________________eeeeee______eeeeeee___________ee______eeeeeeeee__________eeeeeee__________eeee__________________________eeeee_______eeeeeee__________eeeeee_____eeeeeeeeee_________eeeeeeee______eeeeeeee_____",
+        "preds": "__e_____hehh___h___e____h_ehehh____h_e_eeh_e__h__e___ee___e_e___e__eh_heee__e_h_h_h_ehhhee_____e____hhe_______h_ee_________eh______eh_e__h_____e______hh_____h____h______eeehe_h__hh___h_hh___hheh______hhe_e_hh_________hhh_h_________h____he__ee______eh_heh____e___e_h_h__h___ee__e_ehe___ehhh___hh_h_h_e_heh_____h_ehheee_____"
     },
     {
         "sequence": "RICFNQHSSQPQTTKTCSPGESSCYHKQWSDFRGTIIERGCGCPTVKPGIKLSCCESEVCNN",
-        "labels": "_eee_________eee_______eeeeeeee__eeeeeeee__________eeee_______"
+        "labels": "_eee_________eee_______eeeeeeee__eeeeeeee__________eeee_______",
+        "jpred4": "_______________________eeeee_______eeee___________eeee________",
+        "preds": "_ee_h_hh_____h_____h___hhh_eh_h_e_hehe_ee__eee_______h__eehh__"
     },
     {
         "sequence": "IPEYVDWRQKGAVTPVKNQGSCGSCWAFSAVVTIEGIIKIRTGNLNQYSEQELLDCDRRSYGCNGGYPWSALQLVAQYGIHYRNTYPYEGVQRYCRSREKGPYAAKTDGVRQVQPYNQGALLYSIANQPVSVVLQAAGKDFQLYRGGIFVGPCGNKVDHAVAAVGYGPNYILIKNSWGTGWGENGYIRIKRGTGNSYGVCGLYTSSFYPVKN",
-        "labels": "____ee__________________hhhhhhhhhhhhhhhhhh_______hhhhhhh___________hhhhhhhhhh_______________________________eeee_____hhhhhhhhhh__eeeee____hhhh_____ee_________eeeeeeeee__eeeee___________eeeee________________eeee__"
+        "labels": "____ee__________________hhhhhhhhhhhhhhhhhh_______hhhhhhh___________hhhhhhhhhh_______________________________eeee_____hhhhhhhhhh__eeeee____hhhh_____ee_________eeeeeeeee__eeeee___________eeeee________________eeee__",
+        "jpred4": "_________________________hhhhhhhhhhhhhhh_________hhhhh______________hhhhhhhhh_________________________eeeeeeeeee____hhhhhhhhhh____eeeeee______eeeeeeee_______eeeeeeee____eeeee__________eeeeeee_________ee__________",
+        "preds": "__hh___ehheh_ee_____h___eehhheeeee____hhe_____h_hh_h__h__hh__e________eehh_ehee__ee______e__ee___ehe_h_________e___h__h_hhh__e___hee_e_hh_____e____ee__h____ehhh_e__h__h_eeehh_he_e________ehh_e______hh__ee_h__ee__"
     },
     {
         "sequence": "TYTTRQIGAKNTLEYKVYIEKDGKPVSAFHDIPLYADKEDNIFNMVVEIPRWTNAKLEITKEETLNPIIQNTKGKLRFVRNCFPHHGYIHNYGAFPQTWEDPNVSHPETKAVGDNNPIDVLQIGETIAYTGQVKEVKALGIMALLDEGETDWKVIAIDINDPLAPKLNDIEDVEKYFPGLLRATDEWFRIYKIPDGKPENQFAFSGEAKNKKYALDIIKETHNSWKQLIAGKSSDSKGIDLTNVTLPDTPTYSKAASDAIPPASPKADAPIDKSIDKWFFI",
-        "labels": "___eeee________eeee____________________________________________________________________________________________________eee______________eeeeeeeee____eeeeeeee_____________hhhh______hhhhh___hhhhhhhh______________hhhhhhhhhhhhhhhhhhh____________________________________________________"
+        "labels": "___eeee________eeee____________________________________________________________________________________________________eee______________eeeeeeeee____eeeeeeee_____________hhhh______hhhhh___hhhhhhhh______________hhhhhhhhhhhhhhhhhhh____________________________________________________",
+        "jpred4": "__eeeeee______eeeeee____ee_______________eeeeeeee______eeee_______eeee_____eeeee______________________________________eeeee________eeeeeeeeeeeeee_______eeeeee______________hhh__hhhhhhhhhhhhh_______eeeeeee______hhhhhhhhhhhhhhhhhhh__________eeeeee_____eeee_______________________ee__",
+        "preds": "_e___ee__hh_hhheeeh_e_____e________e____hh__he_______eeeeeh_hhh___e___h__h__h____e___h_ee___e__h___e__e___e__eh______eee_ee__hehe__ee__hhh__hh_h__h____hhh____e___e___hh____hhe__h________e_e_e______eh_eeehhe_ee_h_he__eh_hhe_e_hhehh___e___e_h_ee________h_h_______h__h_e_____h____eh_e"
     },
     {
         "sequence": "LPSYVDWRSAGAVVDIKSQGECGGCWAFSAIATVEGINKITSGSLISLSEQELIDCGRTQNTRGCDGGYITDGFQFIINDGGINTEENYPYTAQDGDCDVALQDQKYVTIDTYENVPYNNEWALQTAVTYQPVSVALDAAGDAFKQYASGIFTGPCGTAVDHAIVIVGYGTEGGVDYWIVKNSWDTTWGEEGYMRILRNVGGAGTCGIATMPSYPVKY",
-        "labels": "____ee__________________hhhhhhhhhhhhhhhhhh_______hhhhhhh_____________hhhhhhhhhhh___________________hhhhh_______eeee_____hhhhhhhhhh__eeeee____hhhhh____ee_________eeeeeeeeeee__eeeeeee___________eeeee_______________eeee__"
+        "labels": "____ee__________________hhhhhhhhhhhhhhhhhh_______hhhhhhh_____________hhhhhhhhhhh___________________hhhhh_______eeee_____hhhhhhhhhh__eeeee____hhhhh____ee_________eeeeeeeeeee__eeeeeee___________eeeee_______________eeee__",
+        "jpred4": "_________________________hhhhhhhhhhhhhh______________________________hhhhhhhhhh___________________________eeeeeeee_____hhhhhhhhhh___eeeeee______ee__eeee________eeeeeeeee_______eeeee___________eeeeee_______eee______e___",
+        "preds": "___hh__e____ee_e_heh____e_hehh_h____eehee____e___hhhe_hh__e___e_____h_e_e_eehh____e_h_e_________h__he____eeheeh________hhhhehe____e__ee_e_h__h_____e_e_e__e___eehheehe____he__e_eheeh_____ee__hhe_ehe______ee_e_hh____ee__"
     },
     {
         "sequence": "ANIVGGIEYSINNASLCSVGFSVTRGATKGFVTAGHCGTVNATARIGGAVVGTFAARVFPGNDRAWVSLTSAQTLLPRVANGSSFVTVRGSTEAAVGAAVCRSGRTTGYQCGTITAKNVTANYAEGAVRGLTQGNACMGRGDSGGSWITSAGQAQGVMSGGNVQSNGNNCGIPASQRSSLFERLQPILSQYGLSLVTG",
-        "labels": "_eeee__eeee___eeee__eeeee__eeeeee_________eeee__eeeeeeeeee_____eeeeee____eeeeeeee__eeee___________eeeeee___eeeeeeeeeeeeeeee__eeeeeeeee___________eee_____eeeeeeee_________________eeeeehhhhhhhh__ee___"
+        "labels": "_eeee__eeee___eeee__eeeee__eeeeee_________eeee__eeeeeeeeee_____eeeeee____eeeeeeee__eeee___________eeeeee___eeeeeeeeeeeeeeee__eeeeeeeee___________eee_____eeeeeeee_________________eeeeehhhhhhhh__ee___",
+        "jpred4": "_______eeee____eeeeeeeeee___eeeeee________eeeee_____eeeeee_____eeeeee________ee_______ee____eee____eee______eeeeeeee__eeee_____eeeeeeee__________eeee___eeeeeee__________________eeeeehhhhhhhh___ee___",
+        "preds": "___e__eee_e_______e_eee__h_____eee_hhheh_e__ee_eeee_____________eeeheh_he_e____h_hh_e_eee_h_h_he__ee___ee____h__hhhhe_ehh___h__ee___ehe__h_____e__ee_e___h_e__h___h_______e___eeheh_hee____e_h____hee_"
     },
     {
         "sequence": "APKAPADGLKMDKTKQPVVFNHSTHKAVKCGDCHHPVNGKENYQKCATAGCHDNMDKKDKSAKGYYHAMHDKGTKFKSCVGCHLETAGADAAKKKELTGCKGSKCHS",
-        "labels": "________eee______eee_________hhhh__ee__ee_______________________hhhhhh________hhhhhhhhh___hhhhhhhh_________"
+        "labels": "________eee______eee_________hhhh__ee__ee_______________________hhhhhh________hhhhhhhhh___hhhhhhhh_________",
+        "jpred4": "______________________hhh______e________________________________hhhhh_________hhhhhhhhhh___________________",
+        "preds": "______h___e__e__eeeee_hh__he_________________h_h_____hh__eh_______ehhh____hh_e____heh___e_hhheh_h______hee_"
     },
     {
         "sequence": "VASYDYLVIGGGSGGLASARRAAELGARAAVVESHKLGGTCVNVGCVPKKVMWNTAVHSEFMHDHAVYGFPSCEGFFNWRVIKEKRDAYVSRLNAIYQNNLTKSHIEIIRGHAAFTSDPKPTIEVSGKKYTAPHILIATGGMPSTPHESQIPGASLGITSDGFFQLEELPGRSVIVGAGYIAVEMAGILSALGSKTSLMIRHDNVLRSFDSMISTNCTEELENAGVEVLKFSQVKEVKKTLSGLEVSMVTAVPGRLPVMTMIPDVDCLLWAIGRVPNTKDLSLNKLGIQTDDKGHIIVDEFQNTNVKGIYAVGDVCGKALLTPVAIAAGRKLAHRLFEYKEDSKLDYNNIPTVVFSHPPIGTVGLTEDEAIHKYGIENVKTYSTSFTPMYHAVTKRKTKCVMKMVCANKEEKVVGIHMQGLGCDEMLQGFAVAVKMGATKADFDNTVAIHPTSSEELVTLR",
-        "labels": "_______ee_____hhhhhhhhhh____eeeee_____hhhhhh_hhhhhhhhhhhhhhhhh________________hhhhhhhhhhhhhhhhhhhhhhhhh__eeeee________________________eee____ee______________eehhhh_________eeee___hhhhhhhhhhhh_____eee___________hhhhhhhhhhh______ee__eeeeeee______eeeeee_______eeee_____eeee___ee_________________________________eee__________hhhhhhhhhhhhhhhh______________eee_____eeeee__hhhhhhh_____eeeeeeee_____________eeeeeeee____eeeeeeee___hhhhhhhhhhhh_____hhhhh_________________"
+        "labels": "_______ee_____hhhhhhhhhh____eeeee_____hhhhhh_hhhhhhhhhhhhhhhhh________________hhhhhhhhhhhhhhhhhhhhhhhhh__eeeee________________________eee____ee______________eehhhh_________eeee___hhhhhhhhhhhh_____eee___________hhhhhhhhhhh______ee__eeeeeee______eeeeee_______eeee_____eeee___ee_________________________________eee__________hhhhhhhhhhhhhhhh______________eee_____eeeee__hhhhhhh_____eeeeeeee_____________eeeeeeee____eeeeeeee___hhhhhhhhhhhh_____hhhhh_________________",
+        "jpred4": "___eeeeeee____hhhhhhhhhhh____eee_______eeeee______hhhhhhhhhhhhhh______________hhhhhhhhhhhhhhh__hhhhhhh_____eeeeeeeeee____eee___eeeee_eeeeee_________________ee__hhh________eeeee____hhhhhhhhhhhh___eeeee_________hhhhhhhhhhhhhhh___ee___eeeeeee____eeeeeee__________eeeeeeeeeeeee_____________eee_____eee___________eeeee_______hhhhhhhhhhhhhhhhh_______________ee____________hhhhhhh____eeeeeee_______ee______eeeeeeee____eeeeeeeee___hhhhhhhhhhhh____hhhhhhh______hhhhhh___",
+        "preds": "hh__hehe_e_e_____ehhh_heh_h__heee___e__ehee________eh__ee__hehe_hee_e____he_hhee__hhh___hehe__heee__he___hehhhe__h__h_h__e_e_________eheh_e_h__e____h___h_h__e__hhhhhe_______eeh_e_ehe_h___hh_hh__h_hhee___h_____h_he_______e__hh_h_eee_h_____hhhheee__he_h_____e_he___e____ehh__e___hhe_hhhee___h___ehhee__he_h__e_eee__h_ehhehhh__eeh___he_hh__eeehhe_ehe_ee__eeee____________hhhhh____e_____e_e_hh_e_e_hhh_h_ehh___h__hhhh_hee_heh_e__h_eheh_e_h___h______he____h_h_heeee_"
     },
     {
         "sequence": "PIVDTGSVAPLSAAEKTKIRSAWAPVYSTYETSGVDILVKFFTSTPAAQEFFPKFKGLTTADELKKSADVRWHAERIINAVDDAVASMDDTEKMSMKLRNLSGKHAKSFQVDPEYFKVLAAVIADTVAAGDAGFEKLMSMICILLRSAY",
-        "labels": "____________hhhhhhhhhhhhhhhh_hhhhhhhhhhhhhhh________________hhhhh__hhhhhhhhhhhhhhhhhhh____hhhhhhhhhhhhhhhhh________hhhhhhhhhhhhh___hhhhhhhhhhhhhhh___"
+        "labels": "____________hhhhhhhhhhhhhhhh_hhhhhhhhhhhhhhh________________hhhhh__hhhhhhhhhhhhhhhhhhh____hhhhhhhhhhhhhhhhh________hhhhhhhhhhhhh___hhhhhhhhhhhhhhh___",
+        "jpred4": "____________hhhhhhhhhhhhhh___hhhhhhhhhhhhhhh___hh____________________hhhhhhhhhhhhhhhhhh______hhhhhhhhhhhhh_________hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh__",
+        "preds": "__e___e__e_____hehhhh_____hhee_e_h_hheh_e_h__h____h__hh__eheh_hhhh____hhhh_hh_hhh_hh_hh___h__e_h__h_h___heh_____hh__hhh_hhh_hheh__eehhe_he___eeehe___"
     },
     {
         "sequence": "AQSVPYGVSQIKAPALHSQGYTGSNVKVAVIDSGIDSSHPDLKVAGGASMVPSET",
-        "labels": "_____hhhh______hhhh_______eeeeee_____________ee________"
+        "labels": "_____hhhh______hhhh_______eeeeee_____________ee________",
+        "jpred4": "_____________hhhh________eeeeeee_______________________",
+        "preds": "_hh________h___ee_h_____h__eeeeh__________h__e__h_e_e__"
     },
     {
         "sequence": "PNFQDDNSHGTHVAGTVAALNNSIGVLGVAPSSALYAVKVLGDAGSGQYSWIINGIEWAIANNMDVINMSLGGPSGSAALKAAVDKAVASGVVVVAAAGNEGSTGSSSTVGYPGKYPSVIAVGAVDSSNQRASFSSVGPELDVMAPGVSIQSTLPGNKYGAYNGTSMASPHVAGAAALILSKHPNWTNTQVRSSLQNTTTKLGDSFYYGKGLINVQAAAQ",
-        "labels": "________hhhhhhhhh________________eeeeee_________hhhhhhh__________eeee_________hhhhhhhhhhh___eeee_______________________ee__ee___________________ee___eeeee___eeeee______hhhhhhhhhhhhhh_____hhhhhhhhhh_______________________"
+        "labels": "________hhhhhhhhh________________eeeeee_________hhhhhhh__________eeee_________hhhhhhhhhhh___eeee_______________________ee__ee___________________ee___eeeee___eeeee______hhhhhhhhhhhhhh_____hhhhhhhhhh_______________________",
+        "jpred4": "__________eeeeeeeee______eeeee___eeeeeeee_______hhhhhhhhhhhhh____eeee_________hhhhhhhhhhh___eeeeee___________________eeeee__________________eee______eee______eeee____hhhhhhhhhhhhhhh______hhhhhhhhhhh_________eeeeee_hhhh__",
+        "preds": "___eh____hhe_e_hhe_h_hheeee_e___heheeee_e_____e__hehhe_h_eehh_____h___e__e____ehhhhhhhe_h____hh_e____e_h_e_ee_ee_e__h__he__e_ee____eeehe____h_______eh_he__e_he_____e_h_e___h_h_hehee___h_e__ehh_e__hhhh__hhhe__ee_e__hh___h"
     },
     {
         "sequence": "GKVKVGVDGFGRIGRLVTRAAFNSGKVDIVAINDPFIDLHYMVYMFQYDSTHGKFHGTVKAEDGKLVIDGKAITIFQERDPENIKWGDAGTAYVVESTGVFTTMEKAGAHLKGGAKRIVISAPSADAPMFVMGVNHFKYANSLKIISNASCTTNCLAPLAKVIHDHFGIVEGLMTTVHAITATQKTVDSPSGKLWRGGRGAAQNLIPASTGAAKAVGKVIPELDGKLTGMAFRVPTANVSVLDLTCRLEKPAKYDDIKKVVKEASEGPLKGILGYTEDEVVSDDFNGSNHSSIFDAGAGIELNDTFVKLVSWYDNEFGYSERVVDLMAHMASKE",
-        "labels": "____eeee____hhhhhhhhhhh________ee_____hhhhhhhhhee___ee____ee____eeee__eeeeee________________eeee_______hhhhhhhhhh___eeeee_______________________eeee____hhhhhhhhhhhhhhh__eeeeeeeee___________________________eeee__hhhhhhhh_______eeeeeee_______eeeeeee______hhhhhhhhhhhhh__________________________________eee__eeeee____hhhhhhhhhhhhhhhhhhh_"
+        "labels": "____eeee____hhhhhhhhhhh________ee_____hhhhhhhhhee___ee____ee____eeee__eeeeee________________eeee_______hhhhhhhhhh___eeeee_______________________eeee____hhhhhhhhhhhhhhh__eeeeeeeee___________________________eeee__hhhhhhhh_______eeeeeee_______eeeeeee______hhhhhhhhhhhhh__________________________________eee__eeeee____hhhhhhhhhhhhhhhhhhh_",
+        "jpred4": "__eeeee____hhhhhhhhhhhh_____eeeee_____hhhhhhhhh__________eeee___eeee___eeeeee______________eeeeee______hhhhhhhh____eeeee________eeeeee___________e_______hhhhhhhhhhh____eeeeeeeeee________________________________hhhhhhhhhh_______eeeeee______eeeeeeeee_____hhhhhhhhhhhh_______________eeeee______eee___________eeeeeee____hhhhhhhhhhhhhhhh__",
+        "preds": "_____eh__e_he_ee_ehe___e___hh_eeh___h___heee_eh_______eeh_hhh____eee_____eeee___h__h________hee_______h_h__e_hee____ehh_he_h__h__h_h_ee___eh__h_ee______h__e_e__hehe____hhe_e_he_____h_ehe________ehh__h_ehe_________he__________hh__hh___e_e_ee__e_ehe____h__h_h_hehhh____eh_hhe____he__h_________h_h__ehhhheeh__h______h_h___h_e__hhhhh_h_hh"
     },
     {
         "sequence": "HPTFNKITPNLAEFAFSLYRQLAHQSNSTNIFFSPVSIATAFAMLSLGTKADTHDEILEGLNFNLTEIPEAQIHEGFQELLRTLNQPDSQLQLTTGNGLFLSEGLKLVDKFLEDVKKLYHSEAFTVNFGDTEEAKKQINDYVEKGTQGKIVDLVKELDRDTVFALVNYIFFKGKWERPFEVKDTEEEDFHVDQVTTVKVPMMKRLGMFNIQHCKKLSSWVLLMKYLGNATAIFFLPDEGKLQHLENELTHDIITKFLENEDRRSASLHLPKLSITGTYDLKSVLGQLGITKVFSNGADLSGVTEEAPLKLSKAVHKAVLTIDEKGTEAAGAMFLEAIPM",
-        "labels": "___hhhhhhhhhhhhhhhhhhhhhhh____eee_hhhhhhhhhhhh____hhhhhhhhhh_________hhhhhhhhhhhhhhh_______eeeeeeeeeee______hhhhhhhhhh___eeeee____hhhhhhhhhhhhhhh_________________eeeeeeeeee____________eeeeee_____eeeeeeeeeeeee_eeee____eeeeeee____eeeeeeee____hhhhhhh__hhhhhhhhh____eeeeeeee_eeeeeeee_hhhhhhhh_____________________eeeeeeeeeeee____eeeeeeeeeee___"
+        "labels": "___hhhhhhhhhhhhhhhhhhhhhhh____eee_hhhhhhhhhhhh____hhhhhhhhhh_________hhhhhhhhhhhhhhh_______eeeeeeeeeee______hhhhhhhhhh___eeeee____hhhhhhhhhhhhhhh_________________eeeeeeeeee____________eeeeee_____eeeeeeeeeeeee_eeee____eeeeeee____eeeeeeee____hhhhhhh__hhhhhhhhh____eeeeeeee_eeeeeeee_hhhhhhhh_____________________eeeeeeeeeeee____eeeeeeeeeee___",
+        "jpred4": "___hhhhhhhhhhhhhhhhhhhh______eeeeehhhhhhhhhhhhh____hhhhhhhhhh_________hhhhhhhhhhhhh________eeee___e________hhhhhhhhhhhh____________hhhhhhhhhhhhhhh______________hhhhhhhhhhh________________________eeeeeee________e______eeeee______eeeeee______hhhhhh___hhhhhhh_______eeeeeeeeeeee____hhhhhh__________________________eeeeeeeeeee____eee__eeeeee__",
+        "preds": "__________hee__h___eh__eh_hh___eh__he_h_hh_hhee___h_____eh_ehh__h_____h_hhh_he_hh_________ehee_e___hee___e___eh_h__he_hh_h_heeee____hh_h___eheh_________ee__h_hhhhhhehhhhehh_e___h_________h_ee_he_eh__he_hh_______e____e_ehee_hh____eh_e__________e_heheeh_h_ehe___h_he_eh_____e____e__hhh__h_e_h_____hh___e_eh___he__hhhhhehehe______h_hhhhhh____"
     },
     {
         "sequence": "SIPPEVKFNKPFVFLMIEQNTKSPLFMGKVVNPTQ",
-        "labels": "____eee____eeeeeee____eeeeeeee_____"
+        "labels": "____eee____eeeeeee____eeeeeeee_____",
+        "jpred4": "____eeee___eeeeeee_____eeeeeee_____",
+        "preds": "____eh_ee_h_eee_h_________h___e____"
     }
 ]
