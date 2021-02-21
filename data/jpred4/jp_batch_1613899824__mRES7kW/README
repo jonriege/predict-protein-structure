@@ -1,0 +1,22 @@
+Filename                                                            Description
+--------                                                            -----------
+jp_batch_1613899824__mRES7kW.align                        PSIBLAST alignment with gaps and redundancy removed in FASTA format
+jp_batch_1613899824__mRES7kW.als                          Alscript command file. Used to generate PS/PDF outputjp_batch_1613899824__mRES7kW.blast.gz                     PSIBLAST output (compressed)
+jp_batch_1613899824__mRES7kW.coils.csv                    The output from coils in CSV format
+jp_batch_1613899824__mRES7kW.coilseq.lupas_14             The output from coils using a window length of 14
+jp_batch_1613899824__mRES7kW.coilseq.lupas_21             The output from coils using a window length of 21
+jp_batch_1613899824__mRES7kW.coilseq.lupas_28             The output from coils using a window length of 28
+jp_batch_1613899824__mRES7kW.concise                      The prediction in pseudo-CSV format, including the coiled-coil prediction, solvent accessiblity and the sequence alignment
+jp_batch_1613899824__mRES7kW.concise.blc                  A BLC file of the prediction and alignment
+jp_batch_1613899824__mRES7kW.concise.pdf                  A PDF file of the prediction and alignment
+jp_batch_1613899824__mRES7kW.fasta                        Input query sequence in FASTA format
+jp_batch_1613899824__mRES7kW.full_MSA.fasta               The full multuple sequence alignment before JPred filters. Gaps/insertions shown. FASTA format.
+jp_batch_1613899824__mRES7kW.hmm                          The HHMer2 profile of the alignment
+jp_batch_1613899824__mRES7kW.html                         A HTML file of the prediction and alignment
+jp_batch_1613899824__mRES7kW.jalview                      A Jalview annotation file to be read in with the .align file to view the predictions in Jalview
+jp_batch_1613899824__mRES7kW.jnet                         The output from Jnet
+jp_batch_1613899824__mRES7kW.profile                      PSIBLAST profile
+jp_batch_1613899824__mRES7kW.pssm                         PSIBLAST PSSM in a format for Jnet
+jp_batch_1613899824__mRES7kW.seq                          Your sequence
+jp_batch_1613899824__mRES7kW.simple.html                  The brief HTML output of the query sequence and prediction only
+jp_batch_1613899824__mRES7kW.svg.html                     A Jalview generated SVG file with summary of the results.

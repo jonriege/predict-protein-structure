@@ -1,0 +1,22 @@
+Filename                                                            Description
+--------                                                            -----------
+jp_batch_1613899824__OTb1hTc.align                        PSIBLAST alignment with gaps and redundancy removed in FASTA format
+jp_batch_1613899824__OTb1hTc.als                          Alscript command file. Used to generate PS/PDF outputjp_batch_1613899824__OTb1hTc.blast.gz                     PSIBLAST output (compressed)
+jp_batch_1613899824__OTb1hTc.coils.csv                    The output from coils in CSV format
+jp_batch_1613899824__OTb1hTc.coilseq.lupas_14             The output from coils using a window length of 14
+jp_batch_1613899824__OTb1hTc.coilseq.lupas_21             The output from coils using a window length of 21
+jp_batch_1613899824__OTb1hTc.coilseq.lupas_28             The output from coils using a window length of 28
+jp_batch_1613899824__OTb1hTc.concise                      The prediction in pseudo-CSV format, including the coiled-coil prediction, solvent accessiblity and the sequence alignment
+jp_batch_1613899824__OTb1hTc.concise.blc                  A BLC file of the prediction and alignment
+jp_batch_1613899824__OTb1hTc.concise.pdf                  A PDF file of the prediction and alignment
+jp_batch_1613899824__OTb1hTc.fasta                        Input query sequence in FASTA format
+jp_batch_1613899824__OTb1hTc.full_MSA.fasta               The full multuple sequence alignment before JPred filters. Gaps/insertions shown. FASTA format.
+jp_batch_1613899824__OTb1hTc.hmm                          The HHMer2 profile of the alignment
+jp_batch_1613899824__OTb1hTc.html                         A HTML file of the prediction and alignment
+jp_batch_1613899824__OTb1hTc.jalview                      A Jalview annotation file to be read in with the .align file to view the predictions in Jalview
+jp_batch_1613899824__OTb1hTc.jnet                         The output from Jnet
+jp_batch_1613899824__OTb1hTc.profile                      PSIBLAST profile
+jp_batch_1613899824__OTb1hTc.pssm                         PSIBLAST PSSM in a format for Jnet
+jp_batch_1613899824__OTb1hTc.seq                          Your sequence
+jp_batch_1613899824__OTb1hTc.simple.html                  The brief HTML output of the query sequence and prediction only
+jp_batch_1613899824__OTb1hTc.svg.html                     A Jalview generated SVG file with summary of the results.

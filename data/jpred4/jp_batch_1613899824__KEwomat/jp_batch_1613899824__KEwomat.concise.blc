@@ -1,0 +1,45 @@
+>QUERY
+>UniRef90_UPI00033452E3
+>UniRef90_UPI00044038F6
+>UniRef90_F7AUL3
+>UniRef90_G3HXZ8
+>UniRef90_L9LDU9
+>UniRef90_Q62587
+>UniRef90_G1TTU1
+>UniRef90_Q91XI3
+>
+>
+>
+>lupas_21
+>lupas_14
+>lupas_28
+>jnet
+>conf
+>sol25
+>sol5
+>sol0
+>jhmm
+>jpssm
+ * iteration 1
+ GGGGGGGGG       9     
+ IIIIIIIII       8     
+ VVVVVVVVV      H1   H 
+ EEEEDEEEE      H5   HH
+ QQQQQQQQQ      H6   HH
+ CCCCCCCCC      H8BB HH
+ CCCCCCCCC      H8BB HH
+ TTTTTTTTT      H3    H
+ SSSSSSGSS      H1B   H
+ IIIIIIIII      H7BB HH
+ CCCCCCCCC      H7BB HH
+ SSSSSSSSS      H7   HH
+ LLLLLLLLL      H7BB HH
+ YYYYYYYYY      H6B  HH
+ QQQQQQQQQ      H2   HH
+ LLLLLLLLL      H3B  H 
+ EEEEEEEEE      H1   H 
+ NNNNNNNNN       2   H 
+ YYYYYYYYY       9     
+ CCCCCCCCC       9B    
+ NNNNNNN N       9     
+ *

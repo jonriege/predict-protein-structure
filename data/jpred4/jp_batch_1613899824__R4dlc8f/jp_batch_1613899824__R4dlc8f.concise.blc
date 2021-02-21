@@ -1,0 +1,213 @@
+>QUERY
+>UniRef90_O57031
+>UniRef90_P25879
+>UniRef90_P29151
+>UniRef90_C6GIH8
+>UniRef90_S5T672
+>UniRef90_S5SYC3
+>UniRef90_J9DRH9
+>UniRef90_S5SYG4
+>UniRef90_F6KIE5
+>UniRef90_S4TF19
+>UniRef90_I6XHV6
+>UniRef90_S4TE18
+>UniRef90_S5TMU7
+>
+>
+>
+>lupas_21
+>lupas_14
+>lupas_28
+>jnet
+>conf
+>sol25
+>sol5
+>sol0
+>jhmm
+>jpssm
+ * iteration 1
+ TT                   7     
+ MT     M             2    H
+ RR Q   Q            H8   HH
+ AD V   S            H9   HH
+ VVVV   K            H9B  HH
+ KRRK   R            H9   HH
+ RNSS   A  R         H9   HH
+ MIII   Y  V         H9B  HH
+ IIVL   Q  P         H9B  HH
+ NREG   A  Q         H4    H
+ TGSQ   T  G Q       H1    H
+ HEMS   V  A R        1    H
+ LAAL   A  L L       H2B   H
+ EEEE   PE E E       H2    H
+ HTQH   EM T N       H1    H
+ KKKK   TK K K       H2B   H
+ RRRR   KF S S       H8B  HH
+ FFFA   FF Q I       H6B  HH
+ AVAN  AVD K T       H5   HH
+ LLFL  IDT F V       H2B   H
+ IVLL  VTD A A        1BB   
+ NNTL  SGK N T        6     
+ STNP  TFT T A        7     
+ GLTPL TTG   V        8     
+ NNNTN LYT E SS       6     
+ TLTVC TTT Y AV       1B  E 
+ NNVVT VAV D VV       1   E 
+ ASTNN QQA L NA       3   E 
+ TTTTA TTA L TT       7BB   
+ AAATT AAA A AT       7BB   
+ GGGGGGGTG G GG       5B    
+ TTTNNG PT G NS       1B  H 
+ VVVIIV TV V VL      H0BB HE
+ QLIYQN FL A FT      E0   HE
+ NNNCCC TN T HE      H1B  HH
+ LLLLVL LS H LL       0BBB  
+ SSST  PMS I  S       0B    
+ NNNQNNNNLNN D        2     
+ GGNFLALPLLSNTL       2B    
+ IIIVVIILLIIIIV       3BB  E
+ IIVIQSPVIPTDGA       1    E
+ QQQEQQQQDQQRSE       2    E
+ GGGGGGGGGGGGGG       4B    
+ DDDDTDTTTVTDTV       6     
+ DDDGGGATTTGELS       7     
+ IILIVEENQENLAE       5     
+ NSVSAEDGSSAGSS       2     
+ QQNQQQETTTNQQQ       2     
+ RRRRRRRRRRRRRR      E1   E 
+ SATTIDVIIVIETV      E1   E 
+ GGGGGGGGGGGGGG      E1B  E 
+ DDDRNRRNRRYRQR      E1   E 
+ QKQVKGKKKSKKKR      E1   EE
+ VIIIIYVVICIIHI      E7B  EE
+ RRKNCKVQTIRRQV      E8   EE
+ IMTLMIVCVLNVVA      E9BB EE
+ VTIERTKRKKTSTT      E9   EE
+ SKHQSSSGHSARGS      E8B  EE
+ HQQMLVILIIVMVV      E8B  EE
+ KITVRHHEFQHIHD      E8B  EE
+ LLLLILWVVILIIF      E9BB EE
+ HRLRRRRRHKKRRI      E9   EE
+ VVTYLGYAGGGGGG      E9BB EE
+ RRRRRQRAHRQKRN      E2    E
+ GACRGSCVTPAIIA       1B   E
+ TTTTTGSGTGQWPY       3     
+ AAGLDAQLPAGLML       7     
+ IIIDDGNPGAGDDP       7     
+ TTTTNADADAPVNA       7     
+ VNNTQTTNTDRNDV       7     
+ SSSSASSNSSSNAT       5BB   
+ QQQAPDETDSAASE       2     
+ TTSNYHVTRTVNYC      E1B  E 
+ FFFLFMIMVIALVL      E1BBBEE
+ RRRRARRRRAGAGR      E5BB EE
+ FFFYRIVVIYYKYV      E6BB EE
+ IIIIIIMGILYIYM      E7BBBEE
+ WWWVMLLIMYLWLV      E8BB EE
+ FFFFLLLVYLVIVL      E8BB EE
+ RKRLIQLVLQWFWL      E8   EE
+ DDDDYDDDDDDKDD      E5B  EE
+ NNNTDTKFKSKDRH       4     
+ MTTQRQQQQQSRQQ       7     
+ NNNNNTCSCCPRPA       8     
+ RRRQPNNNNNNPSN       8     
+ GGGGNGGGGGLGEG       7     
+ TTTTSTSVAAATIF       5B    
+ TTTLLQYVAALEKA      H0B  HH
+ PPPPYFPPAAAPPT      H4B  HH
+ TSAAINGTAAAVGA      H4B  HH
+ VVVIAAAVVVTAFV      H5BB HH
+ LTTTTESGSTSFAS      H4B  HH
+ EEEDNDEEDDDNDE      H5B  HH
+ VVVVTVIIIVVAII      H4BB HH
+ LLLLLILWLLILFL      H0B  HH
+ NNDSGDQNTTNMQP       4     
+ TSSSNNTNASADTG       7     
+ AAALGSNGTAG GT       7B    
+ NSSDTSNNDTA TD       7     
+ FFIVLGDVV G GI       7B    
+ MMTSDVWFNMYMVN       5     
+ SASSSNQASADSNN       6     
+ QQQGSESSFGMDSH       6     
+ YYYYLLFRRASSII       5B    
+ NNNENQNNNINENR       1     
+ PPPVPTNLLVTPPR      E0B   E
+ IVTLTVLNSNFLNT      E0B   E
+ TTTNYASY MPSN        1B   E
+ LLFAYF I DIAS        2B   E
+ QLQQ RNEENDYND       3    E
+ QQQQ NK TSNRSQ       5     
+ KHKNDND GQDDER       8     
+ RRRRRRRRRRRRRR       1B  E 
+ FFFFFFFFFFFFFF      E4BB EE
+ TTTKVKVKHRVIIQ      E7   EE
+ IIVFVITIIIVAII      E7BB EE
+ LLFLLLLLLLLLIL      E7BB EE
+ KKQLRKYKYKKH G      E6B  EE
+ DDDDDDDDDKST E      E6   EE
+ VVFEWIKN WVM R      E7B  EE
+ TEMSTVTL TTT F      E6B  EE
+ LLLLFVIV WLV F      E4B  EE
+ NDDCQHAS ATD D       1   E 
+ CCTAEKNL NN  L       7B    
+ SSSSSPGS SS  R       8     
+ LLIATTTL AN  Y       8B    
+ TSVTSTTA SA  C       7B    
+ GGGNNGNG GG  G       7B    
+ EERLVLEP VV  L       4B    
+ SSVSAASG SV  T      E0B  EE
+ IIIKI VV TL  F      E0B  EE
+ KKVAI RQ AV  S      E1B  EE
+ DHHSD HN YD  D      E1   EE
+ RLRTD CL ND  T      E3   EH
+ IVTLF EI TF  G      E0B  EE
+ IMVTV EW VI  T      E1   EE
+ NTDFN FH DK  D      E2   E 
+ LHKNL HL  L  Y       6B    
+ PGKQK KP  P  P       8     
+ GGRKN KA  A  G       5     
+ QTRVL VD  T  V      E5   EE
+ LSAQE NV  C  A      E8B  EE
+ VCIVT IV  T  I      E8BB EE
+ NFFHT NT  T  Y      E7   EE
+ YYYYY FY  K  Y      E5B  EE
+ NNNGN DI  G  E       3     
+ GGGGG SG  N  G       6B    
+ ATAAT TN  T  N       7B    
+ TTAAA TT  T  T       5BB   
+ AASDN GG  G  R       2     
+ VVVAP AG  G  P       2B    
+ AAAAM VV  I  V       1BB   
+ ASATT TA  A  T       1B    
+ SASSI ED  N  G       4B    
+ NNNNN II  T  N       7     
+ GGGRS AE  Q          8     
+ PPPRV ST  T          7     
+ GGGNG NG  G          4B    
+ AAAAA NA  A         E1BB  E
+ IITVL LI  L  L      E8BB EE
+ FFFFL VY  L  L      E8BBBEE
+ MLVFL VF  L  L      E8BB EE
+ LLLLF AY  M  L      E8BBBEE
+ QVVEV LS     L      E6B  EE
+ IIILI IF     I      E2BB EE
+ GGGSS SS     S       4B    
+ DDSDD ED     K       5     
+ SSHKQ  E     I       4     
+ LIAVV  A     G       3B   H
+ VVTAA  V     T       3B   H
+ GGGTA  G     A       3B   H
+ LTQQT  P     G       2    H
+ WWYTS  T     F      E2B  EH
+ DDDRD  N     E      E2   E 
+ SVVLA  V     A      E2B  E 
+ SGTGV  T     E      E1B  EE
+ YYAVA  A     A      E7BB EE
+ EEEQ   R     R      E8   EE
+ AAIL   Y     F      E8B  EE
+ VHVK   K     N      E8   EE
+ YYYF   F     Y      E6B  EE
+ TLLT   I     T      E0   E 
+ DDDD   D     D       8     
+ A  A                 9     
+ *

@@ -1,0 +1,22 @@
+Filename                                                            Description
+--------                                                            -----------
+jp_batch_1613899824__qgKH_EZ.align                        PSIBLAST alignment with gaps and redundancy removed in FASTA format
+jp_batch_1613899824__qgKH_EZ.als                          Alscript command file. Used to generate PS/PDF outputjp_batch_1613899824__qgKH_EZ.blast.gz                     PSIBLAST output (compressed)
+jp_batch_1613899824__qgKH_EZ.coils.csv                    The output from coils in CSV format
+jp_batch_1613899824__qgKH_EZ.coilseq.lupas_14             The output from coils using a window length of 14
+jp_batch_1613899824__qgKH_EZ.coilseq.lupas_21             The output from coils using a window length of 21
+jp_batch_1613899824__qgKH_EZ.coilseq.lupas_28             The output from coils using a window length of 28
+jp_batch_1613899824__qgKH_EZ.concise                      The prediction in pseudo-CSV format, including the coiled-coil prediction, solvent accessiblity and the sequence alignment
+jp_batch_1613899824__qgKH_EZ.concise.blc                  A BLC file of the prediction and alignment
+jp_batch_1613899824__qgKH_EZ.concise.pdf                  A PDF file of the prediction and alignment
+jp_batch_1613899824__qgKH_EZ.fasta                        Input query sequence in FASTA format
+jp_batch_1613899824__qgKH_EZ.full_MSA.fasta               The full multuple sequence alignment before JPred filters. Gaps/insertions shown. FASTA format.
+jp_batch_1613899824__qgKH_EZ.hmm                          The HHMer2 profile of the alignment
+jp_batch_1613899824__qgKH_EZ.html                         A HTML file of the prediction and alignment
+jp_batch_1613899824__qgKH_EZ.jalview                      A Jalview annotation file to be read in with the .align file to view the predictions in Jalview
+jp_batch_1613899824__qgKH_EZ.jnet                         The output from Jnet
+jp_batch_1613899824__qgKH_EZ.profile                      PSIBLAST profile
+jp_batch_1613899824__qgKH_EZ.pssm                         PSIBLAST PSSM in a format for Jnet
+jp_batch_1613899824__qgKH_EZ.seq                          Your sequence
+jp_batch_1613899824__qgKH_EZ.simple.html                  The brief HTML output of the query sequence and prediction only
+jp_batch_1613899824__qgKH_EZ.svg.html                     A Jalview generated SVG file with summary of the results.

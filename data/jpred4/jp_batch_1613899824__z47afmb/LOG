@@ -1,0 +1,145 @@
+BATCHRELATED: jp_batch_1613899824__z47afmb.seq
+BATCHRELATED Time stamp: 1438330575 and Query Name: SCOP_8_JPRED
+BATCHRELATED Submitted number of jobs: 199
+## Running Jpred Server version 4.0.0 ##
+
+--Query: e2pka_1a
+--Part of batch submission (name: SCOP_8_JPRED, n(jobs): 199)
+--/homes/www-jpred/live4/bin/webrun -ipline 129.241.229.129 -log /homes/www-jpred/live4/public_html/results/jp_batch_1613899824__z47afmb/LOG -sequence /homes/www-jpred/live4/public_html/results/jp_batch_1613899824__z47afmb/jp_batch_1613899824__z47afmb.seq -format seq -id jp_batch_1613899824__z47afmb -email yangzhiyuansibs@gmail.com
+--TIMEOUT set at 10800 seconds
+--Started work on jp_batch_1613899824__z47afmb at Fri Jul 31 10:25:46 2015
+--On machine pe-006.cluster.lifesci.dundee.ac.uk
+--format = seq
+>>10% complete
+SequenceBased_CheckingCache
+--Running Jpred pipeline
+--CMD /homes/www-jpred/live4/jpred/jpred --seq jp_batch_1613899824__z47afmb.fasta --output jp_batch_1613899824__z47afmb --db uniref90 --pred-nohits --verbose
+DB is global.
+Host: pe-006
+path: jp_batch_1613899824__z47afmb.fasta
+output: jp_batch_1613899824__z47afmb
+db: uniref90
+Changed DB to local.
+Time STEP0: 0
+Running PSI-BLAST on query against 'uniref.filt'...
+Time STEP1: 574
+Time STEP2: 574
+>>40% complete
+Untruncating the PSIBLAST alignments...
+Unmasking the alignments...
+Converting sequences to the same case...
+Remove excessive sequences...
+Remove sequences which too long or short...
+Remove redundant sequences...
+Removing gaps in the query sequence...
+Outputting cleaned-up PSI_BLAST alignment...
+Time STEP3: 634
+Output the PSSM matrix from the PSI-BLAST profile...
+>>50% complete
+Time STEP4: 634
+Running HMMer on sequences found by PSI-BLAST...
+hmmbuild - build a hidden Markov model from an alignment
+HMMER 2.3.2 (Oct 2003)
+Copyright (C) 1992-2003 HHMI/Washington University School of Medicine
+Freely distributed under the GNU General Public License (GPL)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Alignment file:                    /tmp/5258274.1.c6145.q/Zs6Ak9WCAO
+File format:                       a2m
+Search algorithm configuration:    Multiple domain (hmmls)
+Model construction strategy:       Fast/ad hoc (gapmax 1.00)
+Null model used:                   (default)
+Prior used:                        (default)
+Sequence weighting method:         BLOSUM filter at 0.62 id
+New HMM file:                      /tmp/5258274.1.c6145.q/O3Gk6qbqaf 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Alignment:           #1
+Number of sequences: 788
+Number of columns:   80
+
+Determining effective sequence number    ... done. [482]
+Weighting sequences heuristically        ... done.
+Constructing model architecture          ... done.
+Converting counts to probabilities       ... done.
+Setting model name, etc.                 ... done. [Zs6Ak9WCAO]
+
+Constructed a profile HMM (length 80)
+Average score:      108.27 bits
+Minimum score:       44.54 bits
+Maximum score:      164.65 bits
+Std. deviation:      17.75 bits
+
+Finalizing model configuration           ... done.
+Saving model to file                     ... done.
+//
+
+hmmconvert - convert between profile HMM file formats
+HMMER 2.3.2 (Oct 2003)
+Copyright (C) 1992-2003 HHMI/Washington University School of Medicine
+Freely distributed under the GNU General Public License (GPL)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Input HMM file:           /tmp/5258274.1.c6145.q/O3Gk6qbqaf
+Output HMM file:          /tmp/5258274.1.c6145.q/lTptUbYrtY
+Converting to:            GCG Profile .prf
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ - converted Zs6Ak9WCAO
+
+1 HMM(s) converted and written to /tmp/5258274.1.c6145.q/lTptUbYrtY
+>>70% complete
+Time STEP5: 634
+Running JNet using the generated inputs from HMM and PSI-BLAST...
+Jnet 2.3.1
+Found HMM profile data
+Found PSSM profile file
+Running final predictions!
+
+
+Both PSIBLAST and HMM profiles were found
+Accuracy will average 82.0%
+
+Jpred Finished
+Time STEP6: 634
+>>80% complete
+--Running ncoils and multicoil
+       1 sequences       80 aas        0 in coil
+       1 sequences       80 aas        0 in coil
+       1 sequences       80 aas        0 in coil
+>>90% complete
+--creating output
+"JNETALIGN" data not present
+
+ALSCRIPT  (ALignment to PostScript)
+ALSCRIPT Version 2.07d - 2nd August 2011
+
+See ALSCRIPT.DOC for details
+
+Please Reference: Barton, G. J. (1993), Protein Engineering, 6, 37-40.
+
+By: G. J. Barton
+
+Copyright: Geoffrey J. Barton (1992,1997)
+email: geoff@compbio.dundee.ac.uk
+
+Initial Defaults:
+Maximum number of sequences:	 500 	(Change using MAX_NSEQ command)
+Maximum sequence length:	 8000 	(Change using MAX_SEQ_LEN command)
+Maximum identifier length:	 50 	(Change using MAX_ID_LEN command)
+ALscript Command File: jp_batch_1613899824__z47afmb.als
+Starting ALSCRIPT
+SILENT_MODE
+Max No. of sequences now:	802
+ALscript Finished
+--tarring up the data
+>>100% complete
+--Finished work on jp_batch_1613899824__z47afmb at Fri Jul 31 10:36:31 2015
+--Execution time on jp_batch_1613899824__z47afmb is 5 seconds
+found jp_batch_1613899824__z47afmb.fasta
+Java version: 1.6.0_32
+amd64 Linux 2.6.32-358.6.2.el6.x86_64
+Opening file: jp_batch_1613899824__z47afmb.fasta
+31-Jul-2015 10:36:56 jalview.util.MessageManager <clinit>
+INFO: Getting messages for lang: en_GB
+java.awt.HeadlessException
+Added jp_batch_1613899824__z47afmb.concise
+Creating HTML image: svg.html
